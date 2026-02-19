@@ -1,7 +1,6 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
-import plotly.graph_objects as go
 
 df_grievances=pd.read_csv("grievances.csv")
 df_wards=pd.read_csv("wards.csv")

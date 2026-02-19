@@ -1,5 +1,5 @@
 pandas
-plotly
+plotly.express
 streamlit>=1.32.0
 
 
