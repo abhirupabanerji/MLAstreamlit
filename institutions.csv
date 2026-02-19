@@ -1,0 +1,201 @@
+﻿infrastructure_id,infrastructure_name,infra_category,address,ward_id,head_name,designation,contact_number,dob,Status,email_id,capacity
+INF001,Hanuman Tilak Nagar Mandir (1),Temples,"104, Patel Chowk Road, Sector 14, Tilak Nagar",W14,Aditya Reddy,Temple Head,7009306324,27-01-1995,Proposed,aditya.reddy.inf001@municipal.gov.in,201
+INF002,Mahadev Ashok Nagar Mandir (1),Temples,"127, Patel Chowk Road, Sector 5, Ashok Nagar",W13,Alok Bansal,Temple Head,7692910262,09-08-1970,Closed,alok.bansal.inf002@municipal.gov.in,202
+INF003,Hanuman Model Town Mandir (1),Temples,"45, Industrial Area Road, Sector 12, Model Town",W05,Alok Reddy,Temple Head,6603242197,02-04-1973,Active,alok.reddy.inf003@municipal.gov.in,203
+INF004,Hanuman Subhash Nagar Mandir (1),Temples,"196, Market Road, Sector 11, Subhash Nagar",W16,Aryan Patil,Temple Head,7748415066,15-10-1994,Active,aryan.patil.inf004@municipal.gov.in,204
+INF005,Shri Seemapuri Mandir (1),Temples,"141, Patel Chowk Road, Sector 6, Seemapuri",W10,Rahul Nair,Temple Head,9769594352,05-05-1993,Proposed,rahul.nair.inf005@municipal.gov.in,205
+INF006,Durga Ashok Nagar Mandir (1),Temples,"245, Gandhi Marg, Sector 8, Ashok Nagar",W23,Meera Saxena,Temple Head,6470941580,03-07-1984,Active,meera.saxena.inf006@municipal.gov.in,206
+INF007,Durga Anand Vihar Mandir (1),Temples,"47, Station Road, Sector 17, Anand Vihar",W21,Sai Khan,Temple Head,7068381161,02-03-1989,Active,sai.khan.inf007@municipal.gov.in,207
+INF008,Shri Shastri Nagar Mandir (1),Temples,"4, MG Road, Sector 8, Shastri Nagar",W08,Krishna Chatterjee,Temple Head,8098714444,18-11-1968,Active,krishna.chatterjee.inf008@municipal.gov.in,208
+INF009,Hanuman Rajendra Nagar Mandir (1),Temples,"24, School Lane, Sector 9, Rajendra Nagar",W22,Alok Reddy,Temple Head,6798735802,11-06-1990,Active,alok.reddy.inf009@municipal.gov.in,209
+INF010,Mahadev Model Town Mandir (1),Temples,"72, Park Street, Sector 6, Model Town",W12,Sneha Kapoor,Temple Head,6005766030,03-03-1984,Proposed,sneha.kapoor.inf010@municipal.gov.in,210
+INF011,Shri Indira Chowk Mandir (1),Temples,"154, School Lane, Sector 10, Indira Chowk",W10,Ishaan Desai,Temple Head,7057635924,11-05-1985,Proposed,ishaan.desai.inf011@municipal.gov.in,211
+INF012,Durga Indira Chowk Mandir (1),Temples,"10, Rajiv Nagar Road, Sector 16, Indira Chowk",W09,Vijay Yadav,Temple Head,6842197442,22-03-1968,Closed,vijay.yadav.inf012@municipal.gov.in,212
+INF013,Radha Krishna Tilak Nagar Mandir (1),Temples,"114, Park Street, Sector 2, Tilak Nagar",W13,Manish Nair,Temple Head,8275360252,09-01-1995,Active,manish.nair.inf013@municipal.gov.in,213
+INF014,Radha Krishna Sadar Bazaar Mandir (1),Temples,"234, Gandhi Marg, Sector 17, Sadar Bazaar",W01,Sneha Das,Temple Head,6097805482,10-03-1971,Active,sneha.das.inf014@municipal.gov.in,214
+INF015,Mahadev Model Town Mandir (2),Temples,"116, Nehru Marg, Sector 12, Model Town",W15,Ramesh Bose,Temple Head,7516824839,27-12-1993,Active,ramesh.bose.inf015@municipal.gov.in,215
+INF016,Hanuman Seemapuri Mandir (1),Temples,"214, Park Street, Sector 10, Seemapuri",W01,Neha Gupta,Temple Head,9610100710,10-10-1975,Active,neha.gupta.inf016@municipal.gov.in,216
+INF017,Durga Shastri Nagar Mandir (1),Temples,"222, Bus Stand Road, Sector 2, Shastri Nagar",W01,Ritu Singh,Temple Head,7286479839,29-02-1984,Active,ritu.singh.inf017@municipal.gov.in,217
+INF018,Radha Krishna Rajendra Nagar Mandir (1),Temples,"212, Industrial Area Road, Sector 4, Rajendra Nagar",W13,Shreya Chatterjee,Temple Head,7367811897,27-10-1994,Active,shreya.chatterjee.inf018@municipal.gov.in,218
+INF019,Durga Malviya Nagar Mandir (1),Temples,"61, Nehru Marg, Sector 14, Malviya Nagar",W15,Kavya Reddy,Temple Head,6184951784,23-01-1968,Proposed,kavya.reddy.inf019@municipal.gov.in,219
+INF020,Durga Shastri Nagar Mandir (2),Temples,"14, Industrial Area Road, Sector 2, Shastri Nagar",W03,Meera Gupta,Temple Head,6330508138,26-12-1970,Active,meera.gupta.inf020@municipal.gov.in,220
+INF021,Durga Rajendra Nagar Mandir (1),Temples,"79, Ring Road, Sector 10, Rajendra Nagar",W02,Anjali Verma,Temple Head,9633315591,20-09-1979,Active,anjali.verma.inf021@municipal.gov.in,221
+INF022,Radha Krishna Rajendra Nagar Mandir (2),Temples,"9, College Road, Sector 3, Rajendra Nagar",W01,Manish Patil,Temple Head,9217573642,13-11-1973,Active,manish.patil.inf022@municipal.gov.in,222
+INF023,Durga Lajpat Enclave Mandir (1),Temples,"43, Park Street, Sector 5, Lajpat Enclave",W01,Ishaan Kapoor,Temple Head,9769382956,24-06-1975,Under Maintenance,ishaan.kapoor.inf023@municipal.gov.in,223
+INF024,Shri Kalyanpuri Mandir (1),Temples,"184, MG Road, Sector 5, Kalyanpuri",W19,Arjun Patil,Temple Head,9276980691,08-04-1986,Active,arjun.patil.inf024@municipal.gov.in,224
+INF025,Shri Ashok Nagar Mandir (1),Temples,"49, Market Road, Sector 7, Ashok Nagar",W06,Amit Iyer,Temple Head,8745903841,04-07-1980,Active,amit.iyer.inf025@municipal.gov.in,225
+INF026,LifeCare Lajpat Enclave Hospital (1),Hospitals,"90, Industrial Area Road, Sector 8, Lajpat Enclave",W01,Aarav Joshi,Superintendent,7060603835,30-05-1986,Active,aarav.joshi.inf026@municipal.gov.in,126
+INF027,Community Kalyanpuri Hospital (1),Hospitals,"120, Bus Stand Road, Sector 16, Kalyanpuri",W22,Sai Mehta,Superintendent,7455100306,26-08-1987,Active,sai.mehta.inf027@municipal.gov.in,127
+INF028,Sunrise Ambedkar Nagar Hospital (1),Hospitals,"15, Bus Stand Road, Sector 14, Ambedkar Nagar",W22,Rahul Das,Superintendent,8651097369,12-02-1983,Active,rahul.das.inf028@municipal.gov.in,128
+INF029,Sunrise Sadar Bazaar Hospital (1),Hospitals,"158, Rajiv Nagar Road, Sector 16, Sadar Bazaar",W05,Reyansh Chatterjee,Superintendent,6401943089,31-10-1984,Active,reyansh.chatterjee.inf029@municipal.gov.in,129
+INF030,City Mayur Vihar Hospital (1),Hospitals,"89, Main Road, Sector 10, Mayur Vihar",W23,Priya Nair,Superintendent,6542275188,16-01-1981,Proposed,priya.nair.inf030@municipal.gov.in,130
+INF031,City Shastri Nagar Hospital (1),Hospitals,"37, Bus Stand Road, Sector 3, Shastri Nagar",W04,Vijay Kulkarni,Superintendent,6463271085,20-07-1965,Active,vijay.kulkarni.inf031@municipal.gov.in,131
+INF032,City Mayur Vihar Hospital (2),Hospitals,"55, MG Road, Sector 9, Mayur Vihar",W21,Isha Singh,Superintendent,6950596615,24-08-1993,Closed,isha.singh.inf032@municipal.gov.in,132
+INF033,Civil Tilak Nagar Hospital (1),Hospitals,"137, Patel Chowk Road, Sector 8, Tilak Nagar",W09,Aarav Gupta,Superintendent,9255032243,29-04-1988,Closed,aarav.gupta.inf033@municipal.gov.in,133
+INF034,Civil Anand Vihar Hospital (1),Hospitals,"234, Lake View Road, Sector 5, Anand Vihar",W16,Poonam Chatterjee,Superintendent,9620967772,10-05-1970,Active,poonam.chatterjee.inf034@municipal.gov.in,134
+INF035,Community Civil Lines Hospital (1),Hospitals,"61, Main Road, Sector 15, Civil Lines",W24,Pooja Bansal,Superintendent,8336044922,13-11-1983,Active,pooja.bansal.inf035@municipal.gov.in,135
+INF036,Community Sadar Bazaar Hospital (1),Hospitals,"76, Nehru Marg, Sector 13, Sadar Bazaar",W12,Diya Patil,Superintendent,9696834549,04-06-1985,Active,diya.patil.inf036@municipal.gov.in,136
+INF037,City Tagore Garden Hospital (1),Hospitals,"107, Temple Street, Sector 2, Tagore Garden",W06,Vijay Sharma,Superintendent,9197546469,27-02-1978,Active,vijay.sharma.inf037@municipal.gov.in,137
+INF038,LifeCare Seemapuri Hospital (1),Hospitals,"55, Patel Chowk Road, Sector 2, Seemapuri",W05,Pooja Saxena,Superintendent,6875689014,10-11-1971,Active,pooja.saxena.inf038@municipal.gov.in,138
+INF039,LifeCare Tagore Garden Hospital (1),Hospitals,"13, Ring Road, Sector 3, Tagore Garden",W07,Reyansh Iyer,Superintendent,6951441560,12-10-1990,Active,reyansh.iyer.inf039@municipal.gov.in,139
+INF040,Community Indira Chowk Hospital (1),Hospitals,"224, Lake View Road, Sector 1, Indira Chowk",W04,Aanya Nair,Superintendent,8326722274,15-02-1980,Closed,aanya.nair.inf040@municipal.gov.in,140
+INF041,City Mayur Vihar Hospital (3),Hospitals,"45, Ambedkar Path, Sector 15, Mayur Vihar",W07,Manish Mishra,Superintendent,9528021610,08-05-1965,Under Maintenance,manish.mishra.inf041@municipal.gov.in,141
+INF042,Civil Subhash Nagar Hospital (1),Hospitals,"160, Rajiv Nagar Road, Sector 8, Subhash Nagar",W03,Geeta Chatterjee,Superintendent,8708188596,15-07-1973,Active,geeta.chatterjee.inf042@municipal.gov.in,142
+INF043,Sunrise Kalyanpuri Hospital (1),Hospitals,"20, Patel Chowk Road, Sector 2, Kalyanpuri",W22,Nisha Kulkarni,Superintendent,9277967984,12-04-1970,Active,nisha.kulkarni.inf043@municipal.gov.in,143
+INF044,LifeCare Rajendra Nagar Hospital (1),Hospitals,"82, Patel Chowk Road, Sector 16, Rajendra Nagar",W02,Isha Patil,Superintendent,6373004245,04-02-1968,Active,isha.patil.inf044@municipal.gov.in,144
+INF045,Sunrise Tilak Nagar Hospital (1),Hospitals,"93, Lake View Road, Sector 14, Tilak Nagar",W15,Suresh Bansal,Superintendent,8331931255,09-09-1994,Proposed,suresh.bansal.inf045@municipal.gov.in,145
+INF046,Community Sadar Bazaar Hospital (2),Hospitals,"19, Bus Stand Road, Sector 2, Sadar Bazaar",W11,Suresh Iyer,Superintendent,6938569309,24-08-1975,Under Maintenance,suresh.iyer.inf046@municipal.gov.in,146
+INF047,Civil Tilak Nagar Hospital (2),Hospitals,"206, College Road, Sector 16, Tilak Nagar",W22,Ishaan Singh,Superintendent,9288361428,15-09-1987,Active,ishaan.singh.inf047@municipal.gov.in,147
+INF048,Community Model Town Hospital (1),Hospitals,"138, MG Road, Sector 6, Model Town",W06,Rohit Yadav,Superintendent,8874039995,13-05-1981,Proposed,rohit.yadav.inf048@municipal.gov.in,148
+INF049,City Vivek Vihar Hospital (1),Hospitals,"95, Ambedkar Path, Sector 14, Vivek Vihar",W25,Sai Reddy,Superintendent,8936026056,08-05-1970,Active,sai.reddy.inf049@municipal.gov.in,149
+INF050,Sunrise Nehru Vihar Hospital (1),Hospitals,"142, Nehru Marg, Sector 12, Nehru Vihar",W17,Sunita Kapoor,Superintendent,7524605400,12-08-1966,Active,sunita.kapoor.inf050@municipal.gov.in,150
+INF051,Green Valley Kalyanpuri Public School (1),Schools,"209, Gandhi Marg, Sector 9, Kalyanpuri",W11,Ramesh Khan,Principal,9099270709,22-05-1995,Active,ramesh.khan.inf051@municipal.gov.in,351
+INF052,Green Valley Patel Nagar Public School (1),Schools,"115, Market Road, Sector 8, Patel Nagar",W01,Mohammed Singh,Principal,9838044330,25-07-1975,Active,mohammed.singh.inf052@municipal.gov.in,352
+INF053,Sunrise Subhash Nagar Public School (1),Schools,"32, College Road, Sector 5, Subhash Nagar",W17,Ritu Reddy,Principal,6144426704,18-09-1994,Proposed,ritu.reddy.inf053@municipal.gov.in,353
+INF054,St. Mary's Mayur Vihar Public School (1),Schools,"20, Ring Road, Sector 4, Mayur Vihar",W07,Vijay Patil,Principal,6600466584,01-06-1966,Proposed,vijay.patil.inf054@municipal.gov.in,354
+INF055,Municipal Shastri Nagar Public School (1),Schools,"79, Main Road, Sector 12, Shastri Nagar",W10,Aarav Jain,Principal,9216192994,08-12-1987,Under Maintenance,aarav.jain.inf055@municipal.gov.in,355
+INF056,Sunrise Civil Lines Public School (1),Schools,"70, Ring Road, Sector 3, Civil Lines",W02,Anjali Das,Principal,6358906981,21-12-1967,Active,anjali.das.inf056@municipal.gov.in,356
+INF057,Green Valley Patel Nagar Public School (2),Schools,"188, Nehru Marg, Sector 8, Patel Nagar",W17,Krishna Bansal,Principal,9080849890,08-05-1978,Proposed,krishna.bansal.inf057@municipal.gov.in,357
+INF058,Municipal Green Park Public School (1),Schools,"70, Nehru Marg, Sector 10, Green Park",W12,Ritu Das,Principal,9119700221,12-04-1992,Active,ritu.das.inf058@municipal.gov.in,358
+INF059,Municipal Azad Market Public School (1),Schools,"180, Temple Street, Sector 1, Azad Market",W23,Amit Tripathi,Principal,8435329212,28-10-1990,Under Maintenance,amit.tripathi.inf059@municipal.gov.in,359
+INF060,Sunrise Patel Nagar Public School (1),Schools,"216, Station Road, Sector 2, Patel Nagar",W18,Neha Joshi,Principal,9442125608,10-12-1990,Active,neha.joshi.inf060@municipal.gov.in,360
+INF061,Sunrise Gandhi Colony Public School (1),Schools,"51, Ring Road, Sector 15, Gandhi Colony",W13,Nisha Gupta,Principal,8577766862,19-12-1974,Active,nisha.gupta.inf061@municipal.gov.in,361
+INF062,Municipal Patel Nagar Public School (1),Schools,"51, Ring Road, Sector 1, Patel Nagar",W06,Nisha Iyer,Principal,9667342795,28-05-1989,Active,nisha.iyer.inf062@municipal.gov.in,362
+INF063,St. Mary's Kalyanpuri Public School (1),Schools,"60, Ring Road, Sector 2, Kalyanpuri",W10,Amit Sood,Principal,8793430971,11-12-1988,Active,amit.sood.inf063@municipal.gov.in,363
+INF064,Municipal Subhash Nagar Public School (1),Schools,"225, Bus Stand Road, Sector 11, Subhash Nagar",W17,Aditya Khan,Principal,8054024648,21-07-1967,Active,aditya.khan.inf064@municipal.gov.in,364
+INF065,Sunrise Anand Vihar Public School (1),Schools,"133, Gandhi Marg, Sector 15, Anand Vihar",W12,Rahul Jain,Principal,9759702872,29-04-1982,Active,rahul.jain.inf065@municipal.gov.in,365
+INF066,Govt Azad Market Public School (1),Schools,"178, Temple Street, Sector 15, Azad Market",W09,Krishna Gupta,Principal,9727128041,06-10-1990,Under Maintenance,krishna.gupta.inf066@municipal.gov.in,366
+INF067,Govt Jai Hind Puram Public School (1),Schools,"230, Temple Street, Sector 12, Jai Hind Puram",W05,Sneha Tripathi,Principal,8600108976,29-11-1979,Active,sneha.tripathi.inf067@municipal.gov.in,367
+INF068,St. Mary's Model Town Public School (1),Schools,"34, Nehru Marg, Sector 7, Model Town",W24,Aryan Khan,Principal,9797717903,15-03-1990,Active,aryan.khan.inf068@municipal.gov.in,368
+INF069,Govt Vivek Vihar Public School (1),Schools,"38, Ambedkar Path, Sector 5, Vivek Vihar",W12,Ramesh Chatterjee,Principal,7603579896,17-02-1974,Active,ramesh.chatterjee.inf069@municipal.gov.in,369
+INF070,Sunrise Rajendra Nagar Public School (1),Schools,"220, Bus Stand Road, Sector 13, Rajendra Nagar",W17,Anjali Malhotra,Principal,6889427346,15-01-1988,Active,anjali.malhotra.inf070@municipal.gov.in,370
+INF071,Municipal Indira Chowk Public School (1),Schools,"106, Patel Chowk Road, Sector 15, Indira Chowk",W07,Sai Patil,Principal,7221610399,05-10-1990,Under Maintenance,sai.patil.inf071@municipal.gov.in,371
+INF072,Green Valley Azad Market Public School (1),Schools,"131, Ambedkar Path, Sector 1, Azad Market",W03,Diya Verma,Principal,8810224900,23-06-1971,Under Maintenance,diya.verma.inf072@municipal.gov.in,372
+INF073,Govt Tagore Garden Public School (1),Schools,"51, School Lane, Sector 13, Tagore Garden",W13,Sanjay Saxena,Principal,7563370738,09-07-1995,Active,sanjay.saxena.inf073@municipal.gov.in,373
+INF074,Municipal Saraswati Park Public School (1),Schools,"60, Nehru Marg, Sector 13, Saraswati Park",W04,Aditya Bose,Principal,7388784010,29-12-1995,Active,aditya.bose.inf074@municipal.gov.in,374
+INF075,Govt Ashok Nagar Public School (1),Schools,"243, Nehru Marg, Sector 9, Ashok Nagar",W22,Rahul Chatterjee,Principal,7014589711,25-02-1978,Under Maintenance,rahul.chatterjee.inf075@municipal.gov.in,375
+INF076,National Ashok Nagar College (1),Colleges,"4, Patel Chowk Road, Sector 6, Ashok Nagar",W22,Aditi Desai,Principal,6196901695,02-05-1982,Proposed,aditi.desai.inf076@municipal.gov.in,176
+INF077,City Civil Lines College (1),Colleges,"106, Gandhi Marg, Sector 7, Civil Lines",W11,Imran Das,Principal,9514448399,04-01-1984,Under Maintenance,imran.das.inf077@municipal.gov.in,177
+INF078,City Kalyanpuri College (1),Colleges,"65, Nehru Marg, Sector 4, Kalyanpuri",W02,Amit Tripathi,Principal,8861453223,29-05-1993,Active,amit.tripathi.inf078@municipal.gov.in,178
+INF079,City Rajendra Nagar College (1),Colleges,"154, Temple Street, Sector 15, Rajendra Nagar",W20,Aditya Nair,Principal,6388411359,05-11-1995,Under Maintenance,aditya.nair.inf079@municipal.gov.in,179
+INF080,Govt Mayur Vihar College (1),Colleges,"115, Park Street, Sector 14, Mayur Vihar",W16,Imran Joshi,Principal,8026012551,18-11-1965,Active,imran.joshi.inf080@municipal.gov.in,180
+INF081,National Mayur Vihar College (1),Colleges,"134, Gandhi Marg, Sector 7, Mayur Vihar",W02,Deepak Iyer,Principal,6141051440,07-08-1978,Active,deepak.iyer.inf081@municipal.gov.in,181
+INF082,Metropolitan Gandhi Colony College (1),Colleges,"48, Rajiv Nagar Road, Sector 17, Gandhi Colony",W13,Suresh Reddy,Principal,8624244393,12-03-1975,Active,suresh.reddy.inf082@municipal.gov.in,182
+INF083,Govt Patel Nagar College (1),Colleges,"231, Ring Road, Sector 15, Patel Nagar",W21,Vijay Patil,Principal,9350691125,21-03-1993,Active,vijay.patil.inf083@municipal.gov.in,183
+INF084,City Tagore Garden College (1),Colleges,"233, Lake View Road, Sector 6, Tagore Garden",W24,Ritu Yadav,Principal,9409372897,15-06-1974,Active,ritu.yadav.inf084@municipal.gov.in,184
+INF085,City Rajendra Nagar College (2),Colleges,"122, Gandhi Marg, Sector 9, Rajendra Nagar",W09,Sai Mishra,Principal,8369052739,11-06-1994,Active,sai.mishra.inf085@municipal.gov.in,185
+INF086,City Lajpat Enclave College (1),Colleges,"76, Ring Road, Sector 7, Lajpat Enclave",W01,Diya Mishra,Principal,8192444321,06-07-1968,Active,diya.mishra.inf086@municipal.gov.in,186
+INF087,St. Xavier's Mayur Vihar College (1),Colleges,"64, MG Road, Sector 8, Mayur Vihar",W06,Ramesh Mishra,Principal,7742841038,06-12-1986,Active,ramesh.mishra.inf087@municipal.gov.in,187
+INF088,Govt Azad Market College (1),Colleges,"109, Lake View Road, Sector 13, Azad Market",W08,Sai Sharma,Principal,7245757339,19-01-1977,Active,sai.sharma.inf088@municipal.gov.in,188
+INF089,Govt Tagore Garden College (1),Colleges,"152, Nehru Marg, Sector 7, Tagore Garden",W04,Ramesh Patil,Principal,7400779220,01-01-1980,Active,ramesh.patil.inf089@municipal.gov.in,189
+INF090,City Azad Market College (1),Colleges,"108, Nehru Marg, Sector 11, Azad Market",W19,Diya Verma,Principal,7437050870,04-12-1983,Proposed,diya.verma.inf090@municipal.gov.in,190
+INF091,City Patel Nagar College (1),Colleges,"78, Gandhi Marg, Sector 10, Patel Nagar",W01,Meena Bansal,Principal,8113379895,25-02-1965,Active,meena.bansal.inf091@municipal.gov.in,191
+INF092,Govt Anand Vihar College (1),Colleges,"237, MG Road, Sector 14, Anand Vihar",W14,Aditi Nair,Principal,9072590724,07-05-1980,Proposed,aditi.nair.inf092@municipal.gov.in,192
+INF093,St. Xavier's Mayur Vihar College (2),Colleges,"142, Industrial Area Road, Sector 13, Mayur Vihar",W04,Sai Bansal,Principal,8554754204,02-08-1969,Proposed,sai.bansal.inf093@municipal.gov.in,193
+INF094,City Subhash Nagar College (1),Colleges,"22, School Lane, Sector 17, Subhash Nagar",W22,Alok Bansal,Principal,7064860716,10-06-1970,Active,alok.bansal.inf094@municipal.gov.in,194
+INF095,St. Xavier's Kalyanpuri College (1),Colleges,"12, Gandhi Marg, Sector 6, Kalyanpuri",W15,Diya Tripathi,Principal,7045938863,19-06-1986,Under Maintenance,diya.tripathi.inf095@municipal.gov.in,195
+INF096,St. Xavier's Gandhi Colony College (1),Colleges,"42, Canal Road, Sector 7, Gandhi Colony",W21,Vivaan Patil,Principal,8200625994,06-08-1987,Under Maintenance,vivaan.patil.inf096@municipal.gov.in,196
+INF097,City Mayur Vihar College (1),Colleges,"142, Ambedkar Path, Sector 11, Mayur Vihar",W03,Amit Patil,Principal,7509161814,19-04-1989,Active,amit.patil.inf097@municipal.gov.in,197
+INF098,Govt Kalyanpuri College (1),Colleges,"50, Bus Stand Road, Sector 3, Kalyanpuri",W18,Geeta Das,Principal,6724570422,24-05-1975,Active,geeta.das.inf098@municipal.gov.in,198
+INF099,Metropolitan Subhash Nagar College (1),Colleges,"48, MG Road, Sector 4, Subhash Nagar",W15,Ramesh Tripathi,Principal,6679425806,22-05-1992,Active,ramesh.tripathi.inf099@municipal.gov.in,199
+INF100,National Seemapuri College (1),Colleges,"185, Industrial Area Road, Sector 3, Seemapuri",W01,Alok Saxena,Principal,9834309139,23-10-1970,Active,alok.saxena.inf100@municipal.gov.in,200
+INF101,Indira Chowk Police Station (1),Police Stations,"104, Ambedkar Path, Sector 14, Indira Chowk",W25,Aditi Mishra,Inspector,6310780579,20-11-1976,Under Maintenance,aditi.mishra.inf101@municipal.gov.in,201
+INF102,Ashok Nagar Police Station (1),Police Stations,"124, Market Road, Sector 17, Ashok Nagar",W16,Nisha Sood,Inspector,9489871264,30-04-1976,Under Maintenance,nisha.sood.inf102@municipal.gov.in,202
+INF103,Saraswati Park Police Station (1),Police Stations,"248, Gandhi Marg, Sector 10, Saraswati Park",W19,Manish Sharma,Inspector,8639506229,08-08-1976,Proposed,manish.sharma.inf103@municipal.gov.in,203
+INF104,Rajendra Nagar Police Station (1),Police Stations,"213, Gandhi Marg, Sector 11, Rajendra Nagar",W06,Vijay Kulkarni,Inspector,6797031366,10-08-1985,Active,vijay.kulkarni.inf104@municipal.gov.in,204
+INF105,Model Town Police Station (1),Police Stations,"80, Ambedkar Path, Sector 16, Model Town",W04,Ritu Sharma,Inspector,6503802027,15-06-1992,Under Maintenance,ritu.sharma.inf105@municipal.gov.in,205
+INF106,Saraswati Park Police Station (2),Police Stations,"181, Industrial Area Road, Sector 14, Saraswati Park",W17,Sai Iyer,Inspector,9943218941,16-01-1994,Closed,sai.iyer.inf106@municipal.gov.in,206
+INF107,Anand Vihar Police Station (1),Police Stations,"165, Bus Stand Road, Sector 13, Anand Vihar",W03,Aryan Khan,Inspector,9110007508,10-09-1975,Under Maintenance,aryan.khan.inf107@municipal.gov.in,207
+INF108,Vivek Vihar Police Station (1),Police Stations,"244, Industrial Area Road, Sector 1, Vivek Vihar",W22,Aanya Nair,Inspector,8699931383,21-11-1972,Under Maintenance,aanya.nair.inf108@municipal.gov.in,208
+INF109,Patel Nagar Police Station (1),Police Stations,"32, Temple Street, Sector 3, Patel Nagar",W13,Neha Gupta,Inspector,7302384048,20-05-1990,Active,neha.gupta.inf109@municipal.gov.in,209
+INF110,Model Town Police Station (2),Police Stations,"140, Ring Road, Sector 8, Model Town",W02,Suresh Kulkarni,Inspector,6660231869,26-02-1983,Active,suresh.kulkarni.inf110@municipal.gov.in,210
+INF111,Nehru Vihar Police Station (1),Police Stations,"244, Lake View Road, Sector 1, Nehru Vihar",W06,Imran Khan,Inspector,6589779468,28-12-1994,Active,imran.khan.inf111@municipal.gov.in,211
+INF112,Mayur Vihar Police Station (1),Police Stations,"168, School Lane, Sector 4, Mayur Vihar",W06,Neha Chatterjee,Inspector,6085793202,13-09-1978,Proposed,neha.chatterjee.inf112@municipal.gov.in,212
+INF113,Lajpat Enclave Police Station (1),Police Stations,"1, Canal Road, Sector 17, Lajpat Enclave",W04,Diya Das,Inspector,9440814778,22-11-1989,Under Maintenance,diya.das.inf113@municipal.gov.in,213
+INF114,Azad Market Police Station (1),Police Stations,"8, Bus Stand Road, Sector 8, Azad Market",W16,Rohit Saxena,Inspector,8443047999,16-10-1978,Active,rohit.saxena.inf114@municipal.gov.in,214
+INF115,Kalyanpuri Police Station (1),Police Stations,"210, Lake View Road, Sector 9, Kalyanpuri",W22,Rahul Sood,Inspector,7673760735,15-09-1991,Active,rahul.sood.inf115@municipal.gov.in,215
+INF116,Indira Chowk Police Station (2),Police Stations,"100, Lake View Road, Sector 14, Indira Chowk",W05,Mohammed Yadav,Inspector,6997321072,20-03-1983,Proposed,mohammed.yadav.inf116@municipal.gov.in,216
+INF117,Shastri Nagar Police Station (1),Police Stations,"125, Temple Street, Sector 8, Shastri Nagar",W09,Vijay Joshi,Inspector,8559559174,01-12-1980,Proposed,vijay.joshi.inf117@municipal.gov.in,217
+INF118,Kalyanpuri Police Station (2),Police Stations,"64, Industrial Area Road, Sector 4, Kalyanpuri",W13,Suresh Bose,Inspector,9092237101,04-07-1972,Active,suresh.bose.inf118@municipal.gov.in,218
+INF119,Saraswati Park Police Station (3),Police Stations,"190, School Lane, Sector 13, Saraswati Park",W10,Sunita Singh,Inspector,6002984516,29-04-1982,Active,sunita.singh.inf119@municipal.gov.in,219
+INF120,Shastri Nagar Police Station (2),Police Stations,"4, School Lane, Sector 17, Shastri Nagar",W01,Krishna Tripathi,Inspector,6338039616,19-05-1965,Active,krishna.tripathi.inf120@municipal.gov.in,220
+INF121,Nehru Vihar Police Station (2),Police Stations,"158, Ring Road, Sector 6, Nehru Vihar",W16,Meena Iyer,Inspector,8318776607,06-12-1976,Active,meena.iyer.inf121@municipal.gov.in,221
+INF122,Model Town Police Station (3),Police Stations,"60, Market Road, Sector 8, Model Town",W11,Rahul Joshi,Inspector,9935816295,18-07-1975,Proposed,rahul.joshi.inf122@municipal.gov.in,222
+INF123,Subhash Nagar Police Station (1),Police Stations,"118, Patel Chowk Road, Sector 11, Subhash Nagar",W02,Ritu Verma,Inspector,7841866102,24-04-1990,Active,ritu.verma.inf123@municipal.gov.in,223
+INF124,Lajpat Enclave Police Station (2),Police Stations,"185, Ambedkar Path, Sector 2, Lajpat Enclave",W22,Amit Bansal,Inspector,8952578028,13-05-1980,Active,amit.bansal.inf124@municipal.gov.in,224
+INF125,Subhash Nagar Police Station (2),Police Stations,"21, Ambedkar Path, Sector 9, Subhash Nagar",W07,Isha Patil,Inspector,9116639388,13-09-1995,Active,isha.patil.inf125@municipal.gov.in,225
+INF126,Green Park Block Office (1),Govt Offices,"185, Station Road, Sector 12, Green Park",W15,Aditya Verma,Officer,6094654443,05-07-1974,Proposed,aditya.verma.inf126@municipal.gov.in,226
+INF127,Mayur Vihar Block Office (1),Govt Offices,"61, Market Road, Sector 10, Mayur Vihar",W05,Vijay Das,Officer,6101390349,09-02-1973,Active,vijay.das.inf127@municipal.gov.in,227
+INF128,Kalyanpuri Zonal Office (1),Govt Offices,"13, Nehru Marg, Sector 6, Kalyanpuri",W14,Manish Jain,Officer,8456754172,14-04-1970,Active,manish.jain.inf128@municipal.gov.in,228
+INF129,Sadar Bazaar Zonal Office (1),Govt Offices,"35, Temple Street, Sector 15, Sadar Bazaar",W13,Ritu Sharma,Officer,7433464646,27-05-1968,Active,ritu.sharma.inf129@municipal.gov.in,229
+INF130,Ashok Nagar Block Office (1),Govt Offices,"12, Bus Stand Road, Sector 10, Ashok Nagar",W23,Krishna Mishra,Officer,8895273232,24-01-1977,Active,krishna.mishra.inf130@municipal.gov.in,230
+INF131,Mayur Vihar Block Office (2),Govt Offices,"91, Gandhi Marg, Sector 3, Mayur Vihar",W13,Diya Kapoor,Officer,8520726736,22-05-1970,Under Maintenance,diya.kapoor.inf131@municipal.gov.in,231
+INF132,Model Town Block Office (1),Govt Offices,"2, Rajiv Nagar Road, Sector 10, Model Town",W17,Amit Yadav,Officer,6774789974,03-12-1983,Under Maintenance,amit.yadav.inf132@municipal.gov.in,232
+INF133,Tilak Nagar Municipal Office (1),Govt Offices,"234, Rajiv Nagar Road, Sector 13, Tilak Nagar",W12,Arjun Verma,Officer,9711455406,07-05-1981,Active,arjun.verma.inf133@municipal.gov.in,233
+INF134,Saraswati Park Block Office (1),Govt Offices,"78, Industrial Area Road, Sector 12, Saraswati Park",W06,Ramesh Kapoor,Officer,7108776226,05-07-1966,Active,ramesh.kapoor.inf134@municipal.gov.in,234
+INF135,Shastri Nagar Zonal Office (1),Govt Offices,"176, Canal Road, Sector 13, Shastri Nagar",W13,Priya Patil,Officer,9184017728,08-08-1975,Active,priya.patil.inf135@municipal.gov.in,235
+INF136,Saraswati Park Zonal Office (1),Govt Offices,"91, Nehru Marg, Sector 11, Saraswati Park",W09,Ritu Desai,Officer,9877134675,11-10-1971,Active,ritu.desai.inf136@municipal.gov.in,236
+INF137,Kalyanpuri Block Office (1),Govt Offices,"150, Market Road, Sector 13, Kalyanpuri",W01,Vivaan Patil,Officer,8367081269,19-02-1975,Closed,vivaan.patil.inf137@municipal.gov.in,237
+INF138,Malviya Nagar Municipal Office (1),Govt Offices,"214, Main Road, Sector 14, Malviya Nagar",W07,Aanya Desai,Officer,6461361675,20-03-1967,Proposed,aanya.desai.inf138@municipal.gov.in,238
+INF139,Saraswati Park Ward Office (1),Govt Offices,"36, Nehru Marg, Sector 3, Saraswati Park",W12,Aarav Iyer,Officer,9189241800,28-07-1991,Active,aarav.iyer.inf139@municipal.gov.in,239
+INF140,Mayur Vihar Municipal Office (1),Govt Offices,"65, Main Road, Sector 1, Mayur Vihar",W07,Krishna Chatterjee,Officer,9225455634,21-11-1986,Under Maintenance,krishna.chatterjee.inf140@municipal.gov.in,240
+INF141,Anand Vihar Block Office (1),Govt Offices,"81, Patel Chowk Road, Sector 14, Anand Vihar",W02,Priya Iyer,Officer,6222936405,12-06-1981,Active,priya.iyer.inf141@municipal.gov.in,241
+INF142,Azad Market Zonal Office (1),Govt Offices,"134, Industrial Area Road, Sector 15, Azad Market",W15,Ishaan Patil,Officer,6316964684,22-07-1972,Active,ishaan.patil.inf142@municipal.gov.in,242
+INF143,Vivek Vihar Block Office (1),Govt Offices,"230, Canal Road, Sector 17, Vivek Vihar",W21,Isha Bansal,Officer,8217006821,22-02-1983,Active,isha.bansal.inf143@municipal.gov.in,243
+INF144,Kalyanpuri Municipal Office (1),Govt Offices,"153, Rajiv Nagar Road, Sector 6, Kalyanpuri",W11,Sai Reddy,Officer,8886604251,05-01-1981,Active,sai.reddy.inf144@municipal.gov.in,244
+INF145,Seemapuri Zonal Office (1),Govt Offices,"164, Market Road, Sector 16, Seemapuri",W25,Neha Malhotra,Officer,9963113187,15-03-1988,Active,neha.malhotra.inf145@municipal.gov.in,245
+INF146,Vivek Vihar Zonal Office (1),Govt Offices,"56, Rajiv Nagar Road, Sector 13, Vivek Vihar",W22,Ishaan Bansal,Officer,6997179676,22-02-1966,Active,ishaan.bansal.inf146@municipal.gov.in,246
+INF147,Seemapuri Block Office (1),Govt Offices,"59, Ambedkar Path, Sector 17, Seemapuri",W11,Alok Chatterjee,Officer,7529336852,06-10-1966,Active,alok.chatterjee.inf147@municipal.gov.in,247
+INF148,Civil Lines Municipal Office (1),Govt Offices,"114, Market Road, Sector 17, Civil Lines",W20,Geeta Joshi,Officer,9934699375,29-12-1972,Active,geeta.joshi.inf148@municipal.gov.in,248
+INF149,Civil Lines Block Office (1),Govt Offices,"136, MG Road, Sector 7, Civil Lines",W24,Nisha Iyer,Officer,6475517263,04-04-1991,Proposed,nisha.iyer.inf149@municipal.gov.in,249
+INF150,Rajendra Nagar Zonal Office (1),Govt Offices,"161, Bus Stand Road, Sector 4, Rajendra Nagar",W06,Sai Tripathi,Officer,8502787015,03-02-1978,Active,sai.tripathi.inf150@municipal.gov.in,250
+INF151,Seva Seemapuri Foundation (1),NGOs,"71, MG Road, Sector 2, Seemapuri",W07,Sai Sharma,Director,6090162048,17-02-1983,Active,sai.sharma.inf151@municipal.gov.in,251
+INF152,Prerna Kalyanpuri Foundation (1),NGOs,"105, Patel Chowk Road, Sector 11, Kalyanpuri",W10,Rohit Chatterjee,Director,9960964945,18-05-1980,Active,rohit.chatterjee.inf152@municipal.gov.in,252
+INF153,Seva Nehru Vihar Foundation (1),NGOs,"78, Ring Road, Sector 7, Nehru Vihar",W01,Ishaan Verma,Director,8001395335,09-12-1975,Closed,ishaan.verma.inf153@municipal.gov.in,253
+INF154,Nayi Disha Tagore Garden Foundation (1),NGOs,"202, Station Road, Sector 8, Tagore Garden",W19,Pooja Verma,Director,7806458527,09-10-1986,Active,pooja.verma.inf154@municipal.gov.in,254
+INF155,Nayi Disha Vivek Vihar Foundation (1),NGOs,"229, Industrial Area Road, Sector 4, Vivek Vihar",W18,Meena Tripathi,Director,6663668754,01-05-1970,Active,meena.tripathi.inf155@municipal.gov.in,255
+INF156,Udaan Mayur Vihar Foundation (1),NGOs,"249, MG Road, Sector 9, Mayur Vihar",W23,Geeta Verma,Director,7619938284,12-03-1981,Active,geeta.verma.inf156@municipal.gov.in,256
+INF157,Sahyog Patel Nagar Foundation (1),NGOs,"49, Nehru Marg, Sector 16, Patel Nagar",W03,Suresh Kapoor,Director,6708367941,29-10-1992,Under Maintenance,suresh.kapoor.inf157@municipal.gov.in,257
+INF158,Sahyog Jai Hind Puram Foundation (1),NGOs,"121, Bus Stand Road, Sector 11, Jai Hind Puram",W13,Geeta Mishra,Director,6550216571,30-01-1983,Active,geeta.mishra.inf158@municipal.gov.in,258
+INF159,Udaan Malviya Nagar Foundation (1),NGOs,"60, Temple Street, Sector 1, Malviya Nagar",W17,Isha Desai,Director,9012243057,05-03-1970,Active,isha.desai.inf159@municipal.gov.in,259
+INF160,Udaan Malviya Nagar Foundation (2),NGOs,"168, Rajiv Nagar Road, Sector 4, Malviya Nagar",W10,Isha Yadav,Director,8071718511,14-01-1976,Active,isha.yadav.inf160@municipal.gov.in,260
+INF161,Udaan Azad Market Foundation (1),NGOs,"166, Bus Stand Road, Sector 17, Azad Market",W25,Aditya Jain,Director,6014536519,16-05-1970,Under Maintenance,aditya.jain.inf161@municipal.gov.in,261
+INF162,Nayi Disha Saraswati Park Foundation (1),NGOs,"99, Ring Road, Sector 8, Saraswati Park",W23,Alok Yadav,Director,8777446424,22-09-1981,Under Maintenance,alok.yadav.inf162@municipal.gov.in,262
+INF163,Sahyog Kalyanpuri Foundation (1),NGOs,"206, Lake View Road, Sector 7, Kalyanpuri",W06,Shreya Khan,Director,6789477379,25-02-1995,Active,shreya.khan.inf163@municipal.gov.in,263
+INF164,Prerna Tilak Nagar Foundation (1),NGOs,"158, Rajiv Nagar Road, Sector 15, Tilak Nagar",W20,Isha Kulkarni,Director,9862258545,06-02-1987,Active,isha.kulkarni.inf164@municipal.gov.in,264
+INF165,Nayi Disha Mayur Vihar Foundation (1),NGOs,"90, MG Road, Sector 10, Mayur Vihar",W05,Ananya Gupta,Director,8733995455,26-05-1995,Active,ananya.gupta.inf165@municipal.gov.in,265
+INF166,Nayi Disha Jai Hind Puram Foundation (1),NGOs,"31, Ring Road, Sector 8, Jai Hind Puram",W05,Arjun Das,Director,9741080807,26-06-1972,Proposed,arjun.das.inf166@municipal.gov.in,266
+INF167,Seva Vivek Vihar Foundation (1),NGOs,"142, Park Street, Sector 1, Vivek Vihar",W16,Arjun Saxena,Director,6761682023,04-08-1986,Under Maintenance,arjun.saxena.inf167@municipal.gov.in,267
+INF168,Prerna Saraswati Park Foundation (1),NGOs,"90, Lake View Road, Sector 9, Saraswati Park",W02,Ramesh Desai,Director,6284584783,21-09-1966,Active,ramesh.desai.inf168@municipal.gov.in,268
+INF169,Nayi Disha Malviya Nagar Foundation (1),NGOs,"102, Park Street, Sector 14, Malviya Nagar",W19,Sneha Gupta,Director,6784793653,08-02-1988,Proposed,sneha.gupta.inf169@municipal.gov.in,269
+INF170,Udaan Tilak Nagar Foundation (1),NGOs,"28, College Road, Sector 10, Tilak Nagar",W21,Nisha Sood,Director,6405024062,16-03-1993,Active,nisha.sood.inf170@municipal.gov.in,270
+INF171,Prerna Jai Hind Puram Foundation (1),NGOs,"170, Temple Street, Sector 15, Jai Hind Puram",W03,Kavya Verma,Director,8922634007,06-09-1976,Active,kavya.verma.inf171@municipal.gov.in,271
+INF172,Udaan Malviya Nagar Foundation (3),NGOs,"173, Bus Stand Road, Sector 11, Malviya Nagar",W17,Anjali Mishra,Director,9245775286,20-06-1977,Proposed,anjali.mishra.inf172@municipal.gov.in,272
+INF173,Nayi Disha Lajpat Enclave Foundation (1),NGOs,"164, Market Road, Sector 2, Lajpat Enclave",W05,Isha Iyer,Director,9568752695,04-02-1969,Active,isha.iyer.inf173@municipal.gov.in,273
+INF174,Sahyog Lajpat Enclave Foundation (1),NGOs,"29, Canal Road, Sector 1, Lajpat Enclave",W24,Sai Nair,Director,8378465128,09-12-1994,Active,sai.nair.inf174@municipal.gov.in,274
+INF175,Prerna Rajendra Nagar Foundation (1),NGOs,"19, Ambedkar Path, Sector 1, Rajendra Nagar",W15,Alok Bose,Director,6466089902,13-04-1994,Active,alok.bose.inf175@municipal.gov.in,275
+INF176,Strong Lajpat Enclave Gym (1),Gyms,"133, Gandhi Marg, Sector 3, Lajpat Enclave",W23,Meena Das,Manager,8669032690,18-05-1975,Active,meena.das.inf176@municipal.gov.in,196
+INF177,Iron Seemapuri Gym (1),Gyms,"178, Park Street, Sector 12, Seemapuri",W14,Ritu Bose,Manager,9923333471,15-04-1995,Active,ritu.bose.inf177@municipal.gov.in,197
+INF178,ProFit Kalyanpuri Gym (1),Gyms,"166, Industrial Area Road, Sector 15, Kalyanpuri",W02,Arjun Mehta,Manager,9557612872,11-07-1995,Active,arjun.mehta.inf178@municipal.gov.in,198
+INF179,Power Vivek Vihar Gym (1),Gyms,"111, Bus Stand Road, Sector 5, Vivek Vihar",W22,Aarav Yadav,Manager,9230880955,28-01-1978,Active,aarav.yadav.inf179@municipal.gov.in,199
+INF180,Iron Gandhi Colony Gym (1),Gyms,"115, Park Street, Sector 2, Gandhi Colony",W18,Rahul Malhotra,Manager,6606273240,07-06-1965,Active,rahul.malhotra.inf180@municipal.gov.in,200
+INF181,ProFit Nehru Vihar Gym (1),Gyms,"57, School Lane, Sector 5, Nehru Vihar",W25,Alok Mehta,Manager,6398220226,07-06-1975,Active,alok.mehta.inf181@municipal.gov.in,20
+INF182,Power Gandhi Colony Gym (1),Gyms,"136, Lake View Road, Sector 5, Gandhi Colony",W01,Ritu Kulkarni,Manager,6068856492,28-06-1991,Proposed,ritu.kulkarni.inf182@municipal.gov.in,21
+INF183,Iron Anand Vihar Gym (1),Gyms,"224, Market Road, Sector 9, Anand Vihar",W09,Sneha Bansal,Manager,6969159237,22-05-1982,Active,sneha.bansal.inf183@municipal.gov.in,22
+INF184,FitLife Lajpat Enclave Gym (1),Gyms,"142, MG Road, Sector 17, Lajpat Enclave",W21,Ishaan Patil,Manager,6157717209,11-11-1984,Active,ishaan.patil.inf184@municipal.gov.in,23
+INF185,Power Seemapuri Gym (1),Gyms,"135, Lake View Road, Sector 10, Seemapuri",W22,Nisha Chatterjee,Manager,8470924525,14-09-1982,Active,nisha.chatterjee.inf185@municipal.gov.in,24
+INF186,Power Seemapuri Gym (2),Gyms,"47, Temple Street, Sector 14, Seemapuri",W15,Manish Nair,Manager,8664800272,02-12-1982,Active,manish.nair.inf186@municipal.gov.in,25
+INF187,ProFit Vivek Vihar Gym (1),Gyms,"243, Main Road, Sector 9, Vivek Vihar",W02,Ishaan Bansal,Manager,8531557371,16-09-1970,Active,ishaan.bansal.inf187@municipal.gov.in,26
+INF188,FitLife Mayur Vihar Gym (1),Gyms,"161, Nehru Marg, Sector 9, Mayur Vihar",W20,Diya Gupta,Manager,7133594183,14-09-1968,Closed,diya.gupta.inf188@municipal.gov.in,27
+INF189,FitLife Tilak Nagar Gym (1),Gyms,"241, Gandhi Marg, Sector 10, Tilak Nagar",W15,Meena Nair,Manager,7762658108,13-12-1967,Proposed,meena.nair.inf189@municipal.gov.in,28
+INF190,Strong Anand Vihar Gym (1),Gyms,"14, Canal Road, Sector 11, Anand Vihar",W24,Mohammed Malhotra,Manager,6381873526,02-12-1969,Active,mohammed.malhotra.inf190@municipal.gov.in,29
+INF191,FitLife Seemapuri Gym (1),Gyms,"77, College Road, Sector 8, Seemapuri",W18,Amit Singh,Manager,8290236025,06-03-1974,Active,amit.singh.inf191@municipal.gov.in,30
+INF192,Iron Patel Nagar Gym (1),Gyms,"88, Bus Stand Road, Sector 2, Patel Nagar",W17,Aarav Iyer,Manager,9061060780,14-06-1993,Active,aarav.iyer.inf192@municipal.gov.in,31
+INF193,FitLife Mayur Vihar Gym (2),Gyms,"197, School Lane, Sector 2, Mayur Vihar",W18,Geeta Kapoor,Manager,8236622213,07-07-1976,Under Maintenance,geeta.kapoor.inf193@municipal.gov.in,32
+INF194,FitLife Tagore Garden Gym (1),Gyms,"129, Station Road, Sector 6, Tagore Garden",W05,Sunita Tripathi,Manager,7152317199,17-10-1978,Active,sunita.tripathi.inf194@municipal.gov.in,33
+INF195,Iron Saraswati Park Gym (1),Gyms,"78, Station Road, Sector 14, Saraswati Park",W21,Meena Nair,Manager,6098948968,03-09-1969,Active,meena.nair.inf195@municipal.gov.in,34
+INF196,ProFit Anand Vihar Gym (1),Gyms,"12, Ambedkar Path, Sector 11, Anand Vihar",W13,Sai Gupta,Manager,8847829880,07-02-1973,Under Maintenance,sai.gupta.inf196@municipal.gov.in,35
+INF197,FitLife Malviya Nagar Gym (1),Gyms,"126, Industrial Area Road, Sector 1, Malviya Nagar",W19,Amit Malhotra,Manager,9771302482,17-09-1975,Active,amit.malhotra.inf197@municipal.gov.in,36
+INF198,Power Vivek Vihar Gym (2),Gyms,"89, Market Road, Sector 10, Vivek Vihar",W04,Ritu Singh,Manager,6275030576,26-12-1995,Under Maintenance,ritu.singh.inf198@municipal.gov.in,37
+INF199,Iron Tilak Nagar Gym (1),Gyms,"67, Ambedkar Path, Sector 11, Tilak Nagar",W06,Sunita Bansal,Manager,6320518595,22-09-1975,Active,sunita.bansal.inf199@municipal.gov.in,38
+INF200,Power Tagore Garden Gym (1),Gyms,"89, Bus Stand Road, Sector 13, Tagore Garden",W01,Sai Sood,Manager,9000880108,11-01-1974,Active,sai.sood.inf200@municipal.gov.in,39

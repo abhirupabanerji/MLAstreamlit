@@ -1,0 +1,201 @@
+﻿Project_ID,project_name,category,department,contractor,ward_id,start_date,end_date,budget_sanctioned,budget_released,budget_used,status
+PRJ00001,Anganwadi Renovation - Phase 2 (Tagore Garden) [001],Education,Municipal Corp,Maa Works & Sons,W08,07-12-2025,16-07-2026,14317444,8626244,7352476,Running
+PRJ00002,Street Patrol Support - Phase 2 (Anand Vihar) [002],Police,Police Dept,Sai Contracting Co.,W24,03-03-2024,20-08-2024,9251366,6637491,4470070,Pending
+PRJ00003,Health Camp Program - Phase 2 (Jai Hind Puram) [003],Healthcare,Municipal Corp,Green Infra LLP,W17,20-07-2025,06-07-2026,17900805,12382435,7631405,Pending
+PRJ00004,Storm Drain Repair - Phase 1 (Patel Nagar) [004],Infrastructure,PWD,Prime Constructions Pvt Ltd,W14,31-07-2024,01-09-2025,7636743,7348995,4168750,Pending
+PRJ00005,Storm Drain Repair - Phase 2 (Anand Vihar) [005],Infrastructure,Municipal Corp,Sai Contracting & Sons,W24,21-03-2025,24-08-2025,13613849,13613423,13317867,Completed
+PRJ00006,Community Prayer Hall Repair - Phase 2 (Malviya Nagar) [006],Religious,Municipal Corp,Urban Contracting LLP,W15,16-09-2025,30-07-2026,13650896,12406763,8319819,Running
+PRJ00007,Ambulance Service Setup - Phase 1 (Gandhi Colony) [007],Healthcare,Health Dept,Maa Developers Group,W02,17-06-2024,01-12-2024,10811050,8847229,5869433,Running
+PRJ00008,Street Light Upgrade - Phase 1 (Mayur Vihar) [008],Infrastructure,PWD,Prime Constructions & Sons,W25,14-06-2024,07-08-2025,12370198,8876794,6177050,Running
+PRJ00009,CCTV Installation - Phase 3 (Green Park) [009],Police,Police Dept,National Works Group,W19,05-08-2025,21-05-2026,18033959,13001609,8779005,Running
+PRJ00010,Ashram Drinking Water Facility - Phase 1 (Tagore Garden) [010],Religious,Municipal Corp,Green Projects & Sons,W08,12-11-2024,12-02-2025,3837967,3303708,2472803,Running
+PRJ00011,Ambulance Service Setup - Phase 3 (Malviya Nagar) [011],Healthcare,Health Dept,Om Builders Pvt Ltd,W15,10-06-2024,30-09-2024,6059519,5562973,3281363,Pending
+PRJ00012,Toilet Block Construction - Phase 3 (Seemapuri) [012],Education,Municipal Corp,Om Projects Pvt Ltd,W23,24-04-2025,27-05-2026,16520717,11768992,10145841,Completed
+PRJ00013,Gurudwara Renovation - Phase 3 (Tilak Nagar) [013],Religious,Municipal Corp,Green Infra LLP,W16,19-06-2025,06-08-2025,15199458,11192491,7738958,Running
+PRJ00014,Fogging Drive - Phase 2 (Green Park) [014],Healthcare,Municipal Corp,Royal Works & Sons,W19,18-04-2024,17-01-2025,4489477,4291553,3853169,Completed
+PRJ00015,Storm Drain Repair - Phase 3 (Saraswati Park) [015],Infrastructure,PWD,Green Projects LLP,W06,29-10-2024,24-05-2025,9627517,7406669,6494943,Completed
+PRJ00016,Gurudwara Renovation - Phase 1 (Nehru Vihar) [016],Religious,Municipal Corp,Metro Projects Pvt Ltd,W03,24-10-2024,06-02-2025,12486041,12147361,8203114,Pending
+PRJ00017,Gurudwara Renovation - Phase 3 (Ambedkar Nagar) [017],Religious,Municipal Corp,Urban Builders LLP,W12,01-01-2025,28-01-2026,6325198,3853327,3767748,Completed
+PRJ00018,Desilting Drive - Phase 1 (Rajendra Nagar) [018],Infrastructure,Municipal Corp,Metro Developers Group,W10,30-12-2024,27-05-2025,11674597,7626100,5228773,Running
+PRJ00019,Gurudwara Renovation - Phase 1 (Kalyanpuri) [019],Religious,Municipal Corp,Royal Enterprises LLP,W22,24-03-2024,27-03-2025,9238706,6596637,6024615,Completed
+PRJ00020,Market Shed Repair - Phase 2 (Model Town) [020],Market,PWD,Green Developers Group,W20,02-02-2024,28-01-2025,9954307,8546383,6040208,Running
+PRJ00021,Fogging Drive - Phase 3 (Mayur Vihar) [021],Healthcare,Municipal Corp,Prime Constructions Co.,W25,11-08-2025,03-04-2026,10801276,8206551,8017071,Completed
+PRJ00022,Market Shed Repair - Phase 3 (Kalyanpuri) [022],Market,Municipal Corp,Maa Developers LLP,W22,11-12-2024,13-02-2025,1401281,1028251,672860,Running
+PRJ00023,Waste Segregation Unit - Phase 3 (Seemapuri) [023],Market,PWD,Maa Builders Group,W23,08-07-2025,25-10-2025,12085761,10642851,6474255,Running
+PRJ00024,Drain Cleaning Near Market - Phase 2 (Lajpat Enclave) [024],Market,Municipal Corp,Sai Projects & Sons,W04,01-01-2024,27-12-2024,16780412,13814260,12376599,Completed
+PRJ00025,Footpath Repair - Phase 3 (Tagore Garden) [025],Infrastructure,Municipal Corp,Shree Enterprises Co.,W08,01-09-2025,28-04-2026,11141096,10903225,7492056,Running
+PRJ00026,Market Shed Repair - Phase 1 (Indira Chowk) [026],Market,PWD,Maa Builders Group,W11,30-06-2024,04-04-2025,13682459,11928161,9819750,Running
+PRJ00027,Road Resurfacing - Phase 3 (Mayur Vihar) [027],Infrastructure,PWD,Om Constructions Pvt Ltd,W25,05-12-2025,15-07-2026,9934583,6018805,4588021,Running
+PRJ00028,Skill Training Centre - Phase 3 (Mayur Vihar) [028],Welfare,Municipal Corp,Prime Infra Group,W25,08-05-2025,01-11-2025,15851110,13537082,8918247,Pending
+PRJ00029,CCTV Installation - Phase 3 (Anand Vihar) [029],Police,Police Dept,National Works & Sons,W24,09-12-2025,09-09-2026,17215069,16019290,9742701,Running
+PRJ00030,Storm Drain Repair - Phase 3 (Seemapuri) [030],Infrastructure,PWD,Prime Contracting Co.,W23,04-01-2024,24-03-2024,3012469,1829218,1118316,Pending
+PRJ00031,Street Light Upgrade - Phase 1 (Seemapuri) [031],Infrastructure,Municipal Corp,Urban Contracting Co.,W23,27-02-2025,09-03-2026,19202133,17944153,8988829,Pending
+PRJ00032,Street Light Upgrade - Phase 1 (Gandhi Colony) [032],Infrastructure,Municipal Corp,Maa Builders LLP,W02,29-09-2025,18-11-2025,16801460,15565013,14403764,Completed
+PRJ00033,Ashram Drinking Water Facility - Phase 3 (Sadar Bazaar) [033],Religious,Municipal Corp,Urban Builders Co.,W18,16-09-2025,24-08-2026,6512363,5775781,4297848,Running
+PRJ00034,Fogging Drive - Phase 2 (Sadar Bazaar) [034],Healthcare,Health Dept,Royal Enterprises Group,W18,06-04-2025,13-06-2025,1907760,1426719,1349734,Completed
+PRJ00035,Open Gym Setup - Phase 1 (Gandhi Colony) [035],Sports,Sports Authority,Urban Enterprises & Sons,W02,19-11-2025,04-05-2026,19762328,12311234,8543846,Running
+PRJ00036,Clinic Upgrade - Phase 2 (Shastri Nagar) [036],Healthcare,Health Dept,Green Works Pvt Ltd,W01,05-04-2024,28-05-2024,8575406,8333900,5353312,Pending
+PRJ00037,Fogging Drive - Phase 2 (Mayur Vihar) [037],Healthcare,Municipal Corp,Om Developers & Sons,W25,07-02-2025,24-03-2025,17257548,12152544,11606459,Completed
+PRJ00038,Women Help Desk Setup - Phase 1 (Mayur Vihar) [038],Police,PWD,Metro Builders & Sons,W25,02-09-2024,22-07-2025,13759946,10177884,8019706,Running
+PRJ00039,Sports Lighting - Phase 1 (Mayur Vihar) [039],Sports,Municipal Corp,Urban Builders & Sons,W25,16-01-2024,02-05-2024,15394156,13454918,9974740,Running
+PRJ00040,Footpath Repair - Phase 3 (Tagore Garden) [040],Infrastructure,PWD,Green Builders Group,W08,17-11-2024,01-04-2025,3342600,2760616,1959537,Running
+PRJ00041,Street Light Upgrade - Phase 1 (Civil Lines) [041],Infrastructure,PWD,National Works & Sons,W21,22-12-2024,19-10-2025,4889125,3055399,2147051,Running
+PRJ00042,Temple Approach Road - Phase 2 (Mayur Vihar) [042],Religious,Municipal Corp,Royal Infra & Sons,W25,29-05-2025,06-09-2025,14491854,11082989,6588659,Pending
+PRJ00043,Road Resurfacing - Phase 1 (Kalyanpuri) [043],Infrastructure,Municipal Corp,National Constructions Pvt Ltd,W22,24-11-2025,15-01-2026,1430357,1131259,991846,Running
+PRJ00044,Desilting Drive - Phase 1 (Tagore Garden) [044],Infrastructure,PWD,Maa Engineers & Sons,W08,06-05-2025,30-06-2025,7824262,5850967,5733110,Completed
+PRJ00045,Gurudwara Renovation - Phase 3 (Civil Lines) [045],Religious,Municipal Corp,Shree Constructions & Sons,W21,08-11-2025,16-01-2026,7892942,5489176,3328848,Running
+PRJ00046,Temple Approach Road - Phase 3 (Sadar Bazaar) [046],Religious,Municipal Corp,Urban Infra Pvt Ltd,W18,08-12-2024,11-01-2026,7750634,5295206,4731895,Completed
+PRJ00047,School Boundary Wall - Phase 3 (Saraswati Park) [047],Education,Municipal Corp,Om Builders & Sons,W06,03-01-2024,05-02-2025,2584929,1860971,1224415,Pending
+PRJ00048,Drain Cleaning Near Market - Phase 3 (Saraswati Park) [048],Market,PWD,Prime Projects Pvt Ltd,W06,17-02-2024,23-02-2025,11114769,8817161,8332481,Completed
+PRJ00049,Open Gym Setup - Phase 2 (Nehru Vihar) [049],Sports,Sports Authority,Metro Contracting LLP,W03,15-12-2025,09-03-2026,12427158,12047027,10891097,Completed
+PRJ00050,Street Light Upgrade - Phase 2 (Gandhi Colony) [050],Infrastructure,Municipal Corp,Metro Developers Pvt Ltd,W02,02-11-2024,12-07-2025,12935427,10582556,9904691,Completed
+PRJ00051,Ashram Drinking Water Facility - Phase 1 (Kalyanpuri) [051],Religious,Municipal Corp,Maa Infra & Sons,W22,04-07-2025,07-09-2025,6511820,6436081,4695512,Running
+PRJ00052,Gurudwara Renovation - Phase 2 (Rajendra Nagar) [052],Religious,Municipal Corp,Maa Enterprises & Sons,W10,14-01-2025,18-08-2025,7192083,4807558,4021354,Running
+PRJ00053,Storm Drain Repair - Phase 3 (Vivek Vihar) [053],Infrastructure,PWD,Metro Works & Sons,W07,07-04-2025,30-03-2026,6002589,4300170,3848379,Completed
+PRJ00054,Police Post Construction - Phase 3 (Civil Lines) [054],Police,PWD,Shree Enterprises Group,W21,03-01-2025,09-02-2025,13295886,10029573,8881433,Completed
+PRJ00055,Street Light Upgrade - Phase 2 (Lajpat Enclave) [055],Infrastructure,Municipal Corp,National Contracting & Sons,W04,17-07-2025,14-02-2026,7249514,5623002,5067712,Completed
+PRJ00056,Ambulance Service Setup - Phase 1 (Ambedkar Nagar) [056],Healthcare,Health Dept,Royal Developers LLP,W12,22-05-2025,30-12-2025,9450677,9146198,6986140,Running
+PRJ00057,Community Prayer Hall Repair - Phase 1 (Vivek Vihar) [057],Religious,Municipal Corp,Om Constructions Group,W07,22-01-2024,25-02-2025,12833480,11719379,10234176,Completed
+PRJ00058,Ashram Drinking Water Facility - Phase 3 (Tilak Nagar) [058],Religious,Municipal Corp,Metro Contracting Co.,W16,11-05-2025,31-07-2025,8697757,5553164,3433880,Running
+PRJ00059,Toilet Block Construction - Phase 1 (Tagore Garden) [059],Education,Education Dept,Green Projects & Sons,W08,18-08-2024,22-01-2025,15065799,10044157,6716419,Running
+PRJ00060,Police Post Construction - Phase 3 (Tilak Nagar) [060],Police,PWD,Maa Works & Sons,W16,05-08-2025,01-03-2026,18266396,13798033,7874268,Pending
+PRJ00061,Market Shed Repair - Phase 3 (Subhash Nagar) [061],Market,Municipal Corp,Green Developers Group,W13,13-11-2025,14-08-2026,15930714,11530671,6876477,Pending
+PRJ00062,Community Sports Tournament - Phase 2 (Gandhi Colony) [062],Sports,Sports Authority,Royal Contracting & Sons,W02,13-03-2025,19-02-2026,9508686,8429628,7417923,Running
+PRJ00063,Sports Lighting - Phase 1 (Ashok Nagar) [063],Sports,Municipal Corp,Shree Constructions Group,W09,22-02-2024,16-02-2025,9134386,9096392,7790326,Completed
+PRJ00064,Footpath Repair - Phase 1 (Tagore Garden) [064],Infrastructure,Municipal Corp,National Engineers LLP,W08,23-11-2024,20-04-2025,13134718,8257226,5837164,Running
+PRJ00065,Smart Classroom Setup - Phase 1 (Tilak Nagar) [065],Education,Municipal Corp,Green Contracting LLP,W16,06-07-2025,25-03-2026,13995290,9587270,5722931,Pending
+PRJ00066,Footpath Repair - Phase 2 (Tagore Garden) [066],Infrastructure,PWD,Metro Builders Group,W08,09-03-2025,03-07-2025,14772384,11454372,7784740,Running
+PRJ00067,Clinic Upgrade - Phase 1 (Gandhi Colony) [067],Healthcare,Municipal Corp,Shree Projects Pvt Ltd,W02,12-10-2025,24-03-2026,2898880,2108500,2000461,Completed
+PRJ00068,Police Post Construction - Phase 2 (Indira Chowk) [068],Police,PWD,Metro Contracting LLP,W11,19-04-2024,22-05-2024,18160279,13765351,10237108,Running
+PRJ00069,Community Prayer Hall Repair - Phase 3 (Gandhi Colony) [069],Religious,Municipal Corp,Sai Contracting LLP,W02,25-05-2024,29-08-2024,1421666,1121813,1086895,Completed
+PRJ00070,Storm Drain Repair - Phase 3 (Tilak Nagar) [070],Infrastructure,PWD,Shree Contracting Co.,W16,01-12-2025,14-04-2026,5997328,3650236,2297910,Running
+PRJ00071,Walking Track - Phase 1 (Seemapuri) [071],Sports,Sports Authority,Sai Builders Pvt Ltd,W23,19-03-2024,15-03-2025,6077983,3686238,2493290,Pending
+PRJ00072,Road Resurfacing - Phase 2 (Azad Market) [072],Infrastructure,PWD,Om Engineers & Sons,W05,04-03-2025,13-12-2025,18683523,12324545,10602407,Running
+PRJ00073,Footpath Repair - Phase 2 (Gandhi Colony) [073],Infrastructure,PWD,Urban Builders & Sons,W02,30-03-2024,03-01-2025,10660373,8166127,7906737,Completed
+PRJ00074,Community Sports Tournament - Phase 3 (Ambedkar Nagar) [074],Sports,Municipal Corp,National Constructions Group,W12,29-11-2024,09-05-2025,18317653,11350652,8858220,Running
+PRJ00075,Toilet Block Construction - Phase 1 (Saraswati Park) [075],Education,Municipal Corp,Om Projects Co.,W06,23-08-2025,28-04-2026,10315828,6610498,6025850,Completed
+PRJ00076,Bus Stop Shelter - Phase 1 (Tilak Nagar) [076],Infrastructure,Municipal Corp,Sai Developers Co.,W16,01-03-2025,16-05-2025,8318100,4993182,4342531,Completed
+PRJ00077,Playground Development - Phase 3 (Mayur Vihar) [077],Sports,Municipal Corp,National Works Co.,W25,29-05-2024,29-08-2024,9894965,7718109,6687260,Running
+PRJ00078,Toilet Block Construction - Phase 1 (Jai Hind Puram) [078],Education,Municipal Corp,Sai Works Group,W17,14-05-2024,04-01-2025,1271213,906871,503727,Pending
+PRJ00079,Street Patrol Support - Phase 3 (Kalyanpuri) [079],Police,Police Dept,Royal Enterprises Pvt Ltd,W22,23-01-2025,10-07-2025,1496871,1146103,1009210,Completed
+PRJ00080,Community Sports Tournament - Phase 2 (Azad Market) [080],Sports,Sports Authority,Green Contracting Group,W05,13-03-2024,24-02-2025,13561756,12445537,11770604,Completed
+PRJ00081,Street Patrol Support - Phase 2 (Saraswati Park) [081],Police,Police Dept,Green Works Pvt Ltd,W06,15-10-2025,23-03-2026,2729243,2376985,1476776,Running
+PRJ00082,Police Post Construction - Phase 2 (Subhash Nagar) [082],Police,PWD,Green Works Group,W13,12-07-2024,05-09-2025,19880963,12195381,10510202,Running
+PRJ00083,Footpath Repair - Phase 2 (Sadar Bazaar) [083],Infrastructure,PWD,Om Works Pvt Ltd,W18,06-06-2025,04-06-2026,11511870,7337008,4381924,Pending
+PRJ00084,Street Patrol Support - Phase 3 (Ashok Nagar) [084],Police,PWD,Urban Constructions & Sons,W09,11-09-2024,28-02-2025,14524933,12787457,10942742,Running
+PRJ00085,Street Patrol Support - Phase 3 (Tagore Garden) [085],Police,Police Dept,Shree Developers Group,W08,28-12-2024,14-01-2026,8354212,5370531,2752785,Pending
+PRJ00086,Road Resurfacing - Phase 1 (Indira Chowk) [086],Infrastructure,PWD,Om Engineers Pvt Ltd,W11,22-07-2025,24-07-2026,9329254,8605107,5040868,Pending
+PRJ00087,Open Gym Setup - Phase 2 (Sadar Bazaar) [087],Sports,Municipal Corp,Urban Constructions Group,W18,02-07-2025,11-07-2026,15635186,12684465,11056014,Running
+PRJ00088,Toilet Block Construction - Phase 3 (Tilak Nagar) [088],Education,Education Dept,Royal Developers & Sons,W16,17-02-2025,22-05-2025,14105514,14085297,13881797,Completed
+PRJ00089,Open Gym Setup - Phase 2 (Model Town) [089],Sports,Municipal Corp,Prime Builders LLP,W20,30-11-2025,14-12-2026,14374392,13347419,10211507,Running
+PRJ00090,Desilting Drive - Phase 2 (Ambedkar Nagar) [090],Infrastructure,Municipal Corp,Shree Contracting LLP,W12,31-12-2025,11-11-2026,1062233,1010759,687559,Pending
+PRJ00091,Library Upgrade - Phase 2 (Vivek Vihar) [091],Education,Municipal Corp,Sai Infra Pvt Ltd,W07,10-02-2025,11-10-2025,19122698,14003153,9163372,Pending
+PRJ00092,Primary Health Centre Renovation - Phase 1 (Mayur Vihar) [092],Healthcare,Health Dept,Prime Constructions & Sons,W25,29-02-2024,19-07-2024,2837343,2509625,2484804,Completed
+PRJ00093,Gurudwara Renovation - Phase 3 (Azad Market) [093],Religious,Municipal Corp,Om Engineers & Sons,W05,12-03-2024,20-07-2024,12732105,12051456,9331169,Running
+PRJ00094,Primary Health Centre Renovation - Phase 2 (Anand Vihar) [094],Healthcare,Health Dept,Green Works Pvt Ltd,W24,28-04-2024,20-10-2024,8984429,7413258,6354890,Completed
+PRJ00095,Storm Drain Repair - Phase 2 (Anand Vihar) [095],Infrastructure,PWD,Maa Projects Co.,W24,07-08-2025,02-07-2026,13286418,9230547,9187057,Completed
+PRJ00096,Road Resurfacing - Phase 3 (Azad Market) [096],Infrastructure,PWD,Shree Builders LLP,W05,02-07-2025,26-04-2026,8828567,7541725,7469962,Completed
+PRJ00097,Smart Classroom Setup - Phase 1 (Shastri Nagar) [097],Education,Education Dept,Om Works & Sons,W01,31-12-2025,20-03-2026,6678847,4887552,2667277,Pending
+PRJ00098,Toilet Block Construction - Phase 3 (Lajpat Enclave) [098],Education,Education Dept,Sai Enterprises Pvt Ltd,W04,03-04-2024,22-01-2025,10966456,9125359,8756963,Completed
+PRJ00099,Health Camp Program - Phase 3 (Lajpat Enclave) [099],Healthcare,Municipal Corp,Royal Contracting & Sons,W04,02-01-2025,02-10-2025,2866670,1941320,1147583,Pending
+PRJ00100,Open Gym Setup - Phase 2 (Azad Market) [100],Sports,Municipal Corp,Metro Constructions Pvt Ltd,W05,21-04-2025,11-04-2026,4957047,4869801,4289194,Completed
+PRJ00101,Open Gym Setup - Phase 1 (Anand Vihar) [101],Sports,Sports Authority,Urban Projects LLP,W24,27-12-2024,02-07-2025,9109458,7936530,6986910,Completed
+PRJ00102,Drain Cleaning Near Market - Phase 2 (Rajendra Nagar) [102],Market,PWD,Royal Infra Group,W10,01-05-2025,21-07-2025,1121582,771712,661585,Running
+PRJ00103,Desilting Drive - Phase 2 (Ambedkar Nagar) [103],Infrastructure,PWD,Green Builders LLP,W12,24-01-2024,12-03-2025,15439470,13666483,12357315,Completed
+PRJ00104,Footpath Repair - Phase 3 (Ashok Nagar) [104],Infrastructure,PWD,Urban Projects LLP,W09,16-11-2025,05-01-2027,16149125,13980030,13106551,Completed
+PRJ00105,Community Centre Upgrade - Phase 1 (Kalyanpuri) [105],Welfare,Municipal Corp,Green Projects & Sons,W22,06-12-2024,23-04-2025,18241018,18211664,16449285,Completed
+PRJ00106,Skill Training Centre - Phase 1 (Mayur Vihar) [106],Welfare,Municipal Corp,Green Constructions Group,W25,04-10-2024,09-07-2025,12594417,8539318,7425770,Completed
+PRJ00107,Primary Health Centre Renovation - Phase 2 (Civil Lines) [107],Healthcare,Health Dept,Urban Contracting Co.,W21,08-08-2025,09-06-2026,11216512,8307917,7803474,Completed
+PRJ00108,Gurudwara Renovation - Phase 2 (Lajpat Enclave) [108],Religious,Municipal Corp,Shree Projects Co.,W04,28-03-2025,10-03-2026,10466693,6682921,6393267,Completed
+PRJ00109,Smart Classroom Setup - Phase 1 (Subhash Nagar) [109],Education,Education Dept,Metro Constructions LLP,W13,02-04-2025,05-07-2025,4139222,3581934,1931486,Pending
+PRJ00110,Fogging Drive - Phase 1 (Ambedkar Nagar) [110],Healthcare,Municipal Corp,National Builders Group,W12,25-10-2025,07-12-2025,6767616,4355006,2949422,Running
+PRJ00111,Community Centre Upgrade - Phase 3 (Seemapuri) [111],Welfare,Municipal Corp,Royal Developers Group,W23,08-02-2025,13-03-2025,8280044,7101757,6867356,Completed
+PRJ00112,Road Resurfacing - Phase 3 (Civil Lines) [112],Infrastructure,PWD,Maa Projects Co.,W21,14-08-2025,30-10-2025,2042646,1279498,1139666,Completed
+PRJ00113,Road Resurfacing - Phase 2 (Jai Hind Puram) [113],Infrastructure,Municipal Corp,Royal Builders LLP,W17,02-09-2025,22-01-2026,15095848,13648395,10401095,Running
+PRJ00114,Skill Training Centre - Phase 3 (Nehru Vihar) [114],Welfare,Municipal Corp,Sai Works Co.,W03,15-09-2025,14-07-2026,2318709,2107857,2094710,Completed
+PRJ00115,Police Post Construction - Phase 1 (Tagore Garden) [115],Police,Police Dept,Royal Infra LLP,W08,03-05-2024,15-02-2025,7610705,6651495,4314047,Running
+PRJ00116,Bus Stop Shelter - Phase 1 (Ashok Nagar) [116],Infrastructure,PWD,Prime Contracting Co.,W09,12-05-2024,24-06-2025,15872456,11168339,7585753,Running
+PRJ00117,Street Patrol Support - Phase 2 (Vivek Vihar) [117],Police,Police Dept,Sai Engineers Group,W07,21-06-2024,22-03-2025,14789558,13877067,13073198,Completed
+PRJ00118,Health Camp Program - Phase 1 (Tagore Garden) [118],Healthcare,Health Dept,Metro Works Pvt Ltd,W08,10-08-2024,09-02-2025,5584506,5338545,4831181,Completed
+PRJ00119,Storm Drain Repair - Phase 3 (Green Park) [119],Infrastructure,Municipal Corp,Shree Works Co.,W19,04-07-2024,20-05-2025,1556533,1072461,1029941,Completed
+PRJ00120,CCTV Installation - Phase 1 (Tagore Garden) [120],Police,PWD,Sai Projects Pvt Ltd,W08,06-05-2024,10-06-2024,1366242,1044288,741357,Running
+PRJ00121,Bus Stop Shelter - Phase 3 (Ashok Nagar) [121],Infrastructure,PWD,Shree Projects & Sons,W09,28-04-2025,03-01-2026,1519493,1013645,571802,Pending
+PRJ00122,Storm Drain Repair - Phase 3 (Mayur Vihar) [122],Infrastructure,PWD,Metro Infra Group,W25,20-09-2024,29-12-2024,5335069,5159937,4599560,Running
+PRJ00123,Women Help Desk Setup - Phase 3 (Lajpat Enclave) [123],Police,Police Dept,Urban Works & Sons,W04,06-01-2024,21-05-2024,6084737,4336179,2696609,Running
+PRJ00124,Street Light Upgrade - Phase 2 (Rajendra Nagar) [124],Infrastructure,PWD,Shree Works Pvt Ltd,W10,25-09-2024,06-03-2025,8955119,5588187,4968339,Running
+PRJ00125,Road Resurfacing - Phase 3 (Lajpat Enclave) [125],Infrastructure,PWD,Prime Constructions Pvt Ltd,W04,27-10-2024,17-02-2025,2100644,1666370,1130242,Pending
+PRJ00126,Skill Training Centre - Phase 3 (Green Park) [126],Welfare,Municipal Corp,Prime Constructions Pvt Ltd,W19,07-01-2024,12-11-2024,8538321,6534169,6243919,Completed
+PRJ00127,Street Light Upgrade - Phase 2 (Gandhi Colony) [127],Infrastructure,Municipal Corp,Shree Projects & Sons,W02,10-12-2024,02-11-2025,1024767,737007,411629,Pending
+PRJ00128,Market Shed Repair - Phase 3 (Sadar Bazaar) [128],Market,PWD,Metro Enterprises & Sons,W18,25-04-2024,16-11-2024,9084024,6625781,5925784,Running
+PRJ00129,Storm Drain Repair - Phase 1 (Ambedkar Nagar) [129],Infrastructure,PWD,Green Developers LLP,W12,21-02-2025,31-08-2025,9495993,6265862,5443471,Completed
+PRJ00130,Playground Development - Phase 3 (Malviya Nagar) [130],Sports,Municipal Corp,Om Engineers & Sons,W15,20-11-2024,27-04-2025,12050772,9852114,7111695,Running
+PRJ00131,Street Light Upgrade - Phase 3 (Sadar Bazaar) [131],Infrastructure,Municipal Corp,Urban Infra Group,W18,09-10-2024,20-05-2025,7939243,4813857,3146285,Running
+PRJ00132,Health Camp Program - Phase 2 (Gandhi Colony) [132],Healthcare,Municipal Corp,Green Works LLP,W02,09-07-2025,23-01-2026,3458235,3249802,2810665,Running
+PRJ00133,Fogging Drive - Phase 3 (Vivek Vihar) [133],Healthcare,Municipal Corp,Green Engineers Pvt Ltd,W07,12-07-2024,13-03-2025,13642004,9608196,8018323,Running
+PRJ00134,Primary Health Centre Renovation - Phase 2 (Indira Chowk) [134],Healthcare,Health Dept,Urban Builders LLP,W11,27-03-2025,13-11-2025,10578749,7011760,3737000,Pending
+PRJ00135,Market Shed Repair - Phase 1 (Vivek Vihar) [135],Market,Municipal Corp,Metro Engineers Co.,W07,15-09-2024,30-03-2025,17055896,13734471,11164499,Running
+PRJ00136,Skill Training Centre - Phase 3 (Saraswati Park) [136],Welfare,Municipal Corp,Urban Infra Group,W06,28-08-2025,24-03-2026,16023091,14511150,7883068,Pending
+PRJ00137,Desilting Drive - Phase 3 (Anand Vihar) [137],Infrastructure,Municipal Corp,Sai Builders Group,W24,24-12-2025,23-12-2026,18887503,14112331,10390013,Running
+PRJ00138,Ashram Drinking Water Facility - Phase 3 (Malviya Nagar) [138],Religious,Municipal Corp,Sai Builders & Sons,W15,23-01-2025,27-03-2025,4947184,3054406,1961407,Running
+PRJ00139,Skill Training Centre - Phase 1 (Rajendra Nagar) [139],Welfare,Municipal Corp,Shree Enterprises & Sons,W10,05-06-2025,23-06-2026,12526491,8213744,4525103,Pending
+PRJ00140,Community Sports Tournament - Phase 1 (Indira Chowk) [140],Sports,Sports Authority,Om Projects Group,W11,30-03-2024,22-08-2024,1014244,781106,721821,Completed
+PRJ00141,Police Post Construction - Phase 2 (Tagore Garden) [141],Police,Police Dept,National Developers Group,W08,05-03-2024,04-05-2024,6738198,5889376,4177000,Running
+PRJ00142,Open Gym Setup - Phase 2 (Jai Hind Puram) [142],Sports,Municipal Corp,Urban Engineers Group,W17,18-07-2025,06-07-2026,4848982,4782500,3121131,Running
+PRJ00143,Toilet Block Construction - Phase 1 (Nehru Vihar) [143],Education,Education Dept,Metro Constructions Co.,W03,16-06-2025,27-08-2025,10544289,7886849,7388901,Completed
+PRJ00144,Ambulance Service Setup - Phase 2 (Model Town) [144],Healthcare,Municipal Corp,Prime Enterprises Co.,W20,24-09-2025,13-02-2026,4666372,4018365,3752409,Completed
+PRJ00145,CCTV Installation - Phase 3 (Seemapuri) [145],Police,Police Dept,Shree Enterprises Co.,W23,20-09-2025,22-06-2026,18242755,17004281,16175210,Completed
+PRJ00146,Sports Lighting - Phase 2 (Tagore Garden) [146],Sports,Municipal Corp,Royal Projects & Sons,W08,25-01-2024,15-01-2025,7973722,7571865,4918804,Pending
+PRJ00147,Desilting Drive - Phase 3 (Civil Lines) [147],Infrastructure,PWD,Shree Developers LLP,W21,20-05-2024,12-05-2025,8156391,7254258,4835735,Pending
+PRJ00148,Vendor Zone Marking - Phase 2 (Azad Market) [148],Market,Municipal Corp,Shree Builders Pvt Ltd,W05,29-05-2024,07-07-2024,17867785,11196578,8246390,Running
+PRJ00149,Desilting Drive - Phase 2 (Mayur Vihar) [149],Infrastructure,PWD,Metro Contracting Pvt Ltd,W25,11-03-2025,28-11-2025,1592629,1025535,788308,Running
+PRJ00150,Bus Stop Shelter - Phase 2 (Gandhi Colony) [150],Infrastructure,Municipal Corp,Prime Contracting & Sons,W02,30-01-2024,19-01-2025,2247948,1581581,843927,Pending
+PRJ00151,Health Camp Program - Phase 3 (Lajpat Enclave) [151],Healthcare,Municipal Corp,Sai Infra LLP,W04,29-08-2025,28-06-2026,1798078,1569317,1172933,Running
+PRJ00152,Sports Lighting - Phase 1 (Vivek Vihar) [152],Sports,Sports Authority,Metro Projects LLP,W07,08-11-2025,21-11-2026,4109098,3625235,3610552,Completed
+PRJ00153,Footpath Repair - Phase 1 (Indira Chowk) [153],Infrastructure,Municipal Corp,Royal Developers Group,W11,08-08-2025,10-06-2026,6036773,4003032,2733120,Running
+PRJ00154,Clinic Upgrade - Phase 3 (Anand Vihar) [154],Healthcare,Health Dept,Sai Constructions LLP,W24,12-04-2025,06-06-2025,14195141,11659154,10895778,Completed
+PRJ00155,Ambulance Service Setup - Phase 2 (Seemapuri) [155],Healthcare,Municipal Corp,Royal Contracting Group,W23,01-09-2025,25-02-2026,16570464,16273726,13497168,Running
+PRJ00156,Temple Approach Road - Phase 2 (Azad Market) [156],Religious,Municipal Corp,Metro Contracting Co.,W05,09-03-2025,26-08-2025,10421727,6603737,5924312,Running
+PRJ00157,Health Camp Program - Phase 1 (Azad Market) [157],Healthcare,Municipal Corp,Royal Engineers Pvt Ltd,W05,02-12-2024,01-01-2026,5520872,4244559,2379148,Pending
+PRJ00158,Community Centre Upgrade - Phase 2 (Ashok Nagar) [158],Welfare,Municipal Corp,Prime Works Co.,W09,10-09-2024,11-10-2024,9097654,7175727,5932275,Running
+PRJ00159,Bus Stop Shelter - Phase 3 (Saraswati Park) [159],Infrastructure,Municipal Corp,Maa Enterprises Group,W06,10-02-2025,17-10-2025,2977463,1912860,1527875,Running
+PRJ00160,Footpath Repair - Phase 2 (Ambedkar Nagar) [160],Infrastructure,PWD,Shree Engineers LLP,W12,04-09-2024,29-05-2025,12743080,7811593,7607371,Completed
+PRJ00161,Library Upgrade - Phase 1 (Nehru Vihar) [161],Education,Municipal Corp,Om Contracting Group,W03,01-01-2024,27-06-2024,3003254,2380385,2338302,Completed
+PRJ00162,Anganwadi Renovation - Phase 3 (Nehru Vihar) [162],Education,Municipal Corp,Urban Developers Pvt Ltd,W03,29-03-2024,31-01-2025,15523255,13136818,11683659,Completed
+PRJ00163,Clinic Upgrade - Phase 1 (Tilak Nagar) [163],Healthcare,Health Dept,Shree Works Co.,W16,19-09-2024,23-10-2024,10254241,7085328,4307880,Running
+PRJ00164,Community Centre Upgrade - Phase 1 (Patel Nagar) [164],Welfare,Municipal Corp,Om Builders LLP,W14,26-01-2025,19-12-2025,18441175,12539139,10823653,Completed
+PRJ00165,School Boundary Wall - Phase 3 (Kalyanpuri) [165],Education,Municipal Corp,Om Works Group,W22,01-06-2025,23-01-2026,6516247,4808492,3009719,Running
+PRJ00166,Smart Classroom Setup - Phase 3 (Rajendra Nagar) [166],Education,Municipal Corp,Maa Projects Pvt Ltd,W10,16-06-2025,24-12-2025,12625939,10171266,8036788,Running
+PRJ00167,Road Resurfacing - Phase 2 (Civil Lines) [167],Infrastructure,Municipal Corp,Prime Works Pvt Ltd,W21,27-01-2024,10-09-2024,6239283,4816158,3340900,Running
+PRJ00168,Public Toilets Maintenance - Phase 1 (Patel Nagar) [168],Welfare,Municipal Corp,Sai Builders & Sons,W14,28-11-2025,22-04-2026,10172844,8007917,6872204,Running
+PRJ00169,Footpath Repair - Phase 3 (Civil Lines) [169],Infrastructure,Municipal Corp,Green Builders Group,W21,25-10-2024,09-12-2024,14391202,14341801,13937516,Completed
+PRJ00170,Ambulance Service Setup - Phase 3 (Kalyanpuri) [170],Healthcare,Municipal Corp,Green Projects LLP,W22,29-04-2025,23-12-2025,12024227,7807855,7609166,Completed
+PRJ00171,Gurudwara Renovation - Phase 1 (Azad Market) [171],Religious,Municipal Corp,Om Builders Co.,W05,17-10-2025,24-07-2026,9563441,8713153,8627000,Completed
+PRJ00172,Storm Drain Repair - Phase 1 (Kalyanpuri) [172],Infrastructure,PWD,Prime Enterprises Pvt Ltd,W22,20-06-2025,18-09-2025,9575009,6048423,4771459,Running
+PRJ00173,Smart Classroom Setup - Phase 3 (Mayur Vihar) [173],Education,Education Dept,Urban Infra Group,W25,13-11-2024,11-05-2025,16095240,14316157,10623866,Running
+PRJ00174,Community Prayer Hall Repair - Phase 2 (Azad Market) [174],Religious,Municipal Corp,Metro Projects Co.,W05,10-09-2024,09-04-2025,16405485,10628476,9911397,Completed
+PRJ00175,Library Upgrade - Phase 1 (Tagore Garden) [175],Education,Municipal Corp,Royal Projects Pvt Ltd,W08,23-06-2025,27-07-2026,5661705,5403375,2976180,Pending
+PRJ00176,Sports Lighting - Phase 1 (Saraswati Park) [176],Sports,Sports Authority,Shree Works & Sons,W06,16-01-2025,05-02-2026,10405890,7064873,4964939,Running
+PRJ00177,Footpath Repair - Phase 2 (Civil Lines) [177],Infrastructure,Municipal Corp,Shree Infra & Sons,W21,11-02-2025,25-12-2025,5153314,3621133,2205748,Running
+PRJ00178,Women Help Desk Setup - Phase 1 (Ambedkar Nagar) [178],Police,PWD,Sai Infra LLP,W12,12-10-2024,03-10-2025,3113366,2728618,2033070,Running
+PRJ00179,Footpath Repair - Phase 3 (Mayur Vihar) [179],Infrastructure,Municipal Corp,Sai Constructions Group,W25,14-03-2024,11-06-2024,11956313,8304285,5192747,Pending
+PRJ00180,Community Prayer Hall Repair - Phase 1 (Kalyanpuri) [180],Religious,Municipal Corp,Om Works Co.,W22,28-01-2024,13-09-2024,7424393,5379490,4700500,Completed
+PRJ00181,Bus Stop Shelter - Phase 3 (Azad Market) [181],Infrastructure,Municipal Corp,Metro Infra LLP,W05,13-08-2024,28-07-2025,5996863,4440430,3598908,Running
+PRJ00182,Street Light Upgrade - Phase 2 (Indira Chowk) [182],Infrastructure,PWD,Royal Builders Co.,W11,02-08-2025,19-10-2025,1014072,953279,906540,Completed
+PRJ00183,Road Resurfacing - Phase 2 (Patel Nagar) [183],Infrastructure,PWD,Sai Contracting Group,W14,13-11-2024,15-07-2025,11694097,8531689,7342587,Completed
+PRJ00184,Anganwadi Renovation - Phase 2 (Mayur Vihar) [184],Education,Education Dept,Maa Developers Pvt Ltd,W25,03-11-2025,06-06-2026,17568615,12492301,8815600,Running
+PRJ00185,Bus Stop Shelter - Phase 2 (Mayur Vihar) [185],Infrastructure,Municipal Corp,Royal Contracting LLP,W25,03-05-2025,29-07-2025,5619666,4453347,3011362,Pending
+PRJ00186,Gurudwara Renovation - Phase 2 (Sadar Bazaar) [186],Religious,Municipal Corp,Sai Enterprises & Sons,W18,21-04-2025,16-09-2025,6192086,4474818,4420040,Completed
+PRJ00187,Ashram Drinking Water Facility - Phase 1 (Saraswati Park) [187],Religious,Municipal Corp,Shree Projects Co.,W06,14-11-2025,20-04-2026,10147989,9459630,9447619,Completed
+PRJ00188,Storm Drain Repair - Phase 1 (Shastri Nagar) [188],Infrastructure,Municipal Corp,Sai Contracting LLP,W01,06-10-2025,01-01-2026,6501994,4350466,3340215,Running
+PRJ00189,Community Prayer Hall Repair - Phase 2 (Mayur Vihar) [189],Religious,Municipal Corp,Metro Engineers LLP,W25,15-08-2024,11-06-2025,17488540,16136555,13832753,Running
+PRJ00190,Walking Track - Phase 2 (Green Park) [190],Sports,Municipal Corp,Urban Works LLP,W19,28-12-2025,20-01-2027,12118524,11710264,8756170,Running
+PRJ00191,Smart Classroom Setup - Phase 3 (Tagore Garden) [191],Education,Education Dept,Green Enterprises LLP,W08,28-05-2025,29-06-2025,6002999,4127942,2696497,Pending
+PRJ00192,Women Help Desk Setup - Phase 1 (Rajendra Nagar) [192],Police,Police Dept,Green Developers Co.,W10,11-11-2025,01-08-2026,8390604,7875957,7027438,Completed
+PRJ00193,Gurudwara Renovation - Phase 3 (Green Park) [193],Religious,Municipal Corp,National Infra Group,W19,12-11-2025,08-09-2026,13795432,13451027,13421787,Completed
+PRJ00194,Footpath Repair - Phase 2 (Subhash Nagar) [194],Infrastructure,PWD,National Engineers Group,W13,21-01-2025,10-09-2025,13239971,9556793,9048263,Completed
+PRJ00195,Gurudwara Renovation - Phase 1 (Azad Market) [195],Religious,Municipal Corp,Sai Projects & Sons,W05,17-09-2025,16-02-2026,19336965,12871398,12158129,Completed
+PRJ00196,Ambulance Service Setup - Phase 1 (Nehru Vihar) [196],Healthcare,Health Dept,Green Projects Pvt Ltd,W03,04-07-2024,17-02-2025,6773633,4075493,3672085,Completed
+PRJ00197,Women Help Desk Setup - Phase 1 (Patel Nagar) [197],Police,Police Dept,Urban Builders Group,W14,23-11-2024,01-11-2025,7108246,4658944,4003592,Running
+PRJ00198,Toilet Block Construction - Phase 2 (Shastri Nagar) [198],Education,Education Dept,Prime Infra Co.,W01,28-03-2024,13-05-2025,10028247,8171146,6972935,Completed
+PRJ00199,Waste Segregation Unit - Phase 3 (Shastri Nagar) [199],Market,PWD,Metro Developers & Sons,W01,27-02-2024,15-12-2024,1082554,766452,603099,Running
+PRJ00200,Bus Stop Shelter - Phase 3 (Lajpat Enclave) [200],Infrastructure,Municipal Corp,Maa Works Pvt Ltd,W04,16-12-2024,20-02-2025,5443012,4775940,3158618,Running

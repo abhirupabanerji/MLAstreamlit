@@ -1,0 +1,26 @@
+﻿ward_id,ward_name,population,area_type,area_name
+W01,Ward 01 - Shastri Nagar,104654,Urban,Shastri Nagar
+W02,Ward 02 - Gandhi Colony,55773,Rural,Gandhi Colony
+W03,Ward 03 - Nehru Vihar,87435,Semi-Urban,Nehru Vihar
+W04,Ward 04 - Lajpat Enclave,76886,Semi-Urban,Lajpat Enclave
+W05,Ward 05 - Azad Market,86803,Urban,Azad Market
+W06,Ward 06 - Saraswati Park,51551,Urban,Saraswati Park
+W07,Ward 07 - Vivek Vihar,31394,Urban,Vivek Vihar
+W08,Ward 08 - Tagore Garden,89092,Rural,Tagore Garden
+W09,Ward 09 - Ashok Nagar,23890,Semi-Urban,Ashok Nagar
+W10,Ward 10 - Rajendra Nagar,61606,Semi-Urban,Rajendra Nagar
+W11,Ward 11 - Indira Chowk,116276,Urban,Indira Chowk
+W12,Ward 12 - Ambedkar Nagar,100038,Rural,Ambedkar Nagar
+W13,Ward 13 - Subhash Nagar,107313,Rural,Subhash Nagar
+W14,Ward 14 - Patel Nagar,30627,Urban,Patel Nagar
+W15,Ward 15 - Malviya Nagar,28792,Urban,Malviya Nagar
+W16,Ward 16 - Tilak Nagar,93969,Urban,Tilak Nagar
+W17,Ward 17 - Jai Hind Puram,63001,Urban,Jai Hind Puram
+W18,Ward 18 - Sadar Bazaar,96552,Semi-Urban,Sadar Bazaar
+W19,Ward 19 - Green Park,43897,Urban,Green Park
+W20,Ward 20 - Model Town,88148,Urban,Model Town
+W21,Ward 21 - Civil Lines,43483,Semi-Urban,Civil Lines
+W22,Ward 22 - Kalyanpuri,68555,Urban,Kalyanpuri
+W23,Ward 23 - Seemapuri,37159,Urban,Seemapuri
+W24,Ward 24 - Anand Vihar,100077,Urban,Anand Vihar
+W25,Ward 25 - Mayur Vihar,55920,Semi-Urban,Mayur Vihar
