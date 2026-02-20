@@ -1,4 +1,4 @@
-import streamlit as st'
+import streamlit as st
 import pandas as pd
 import plotly.express as px
 
@@ -134,6 +134,7 @@ dept_selected = st.selectbox(
 )
 df_filtered = df[df["department"] == dept_selected]
 st.dataframe(df_filtered[["project_name","contractor","status"]],use_container_width=True)
+
 
 
 
