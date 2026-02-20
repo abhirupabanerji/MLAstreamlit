@@ -110,7 +110,7 @@ st.plotly_chart(fig, use_container_width=True)
 col1, col2 = st.columns(2)
 with col1:
     #funds sanctioned vs used vs released 
-    df_project = df[["category","budget_sanctioned","budget_released","budget_used"]]
+    df_project = df.groupby(category)[["budget_sanctioned", "budget_released", "budget_used"]].sum().reset_index()
     df_long = df_project.melt(id_vars="category", value_vars=["budget_sanctioned", "budget_released", "budget_used"], var_name="Budget Type", value_name="Amount")
     fig2 = px.bar(df_long, x="category", y="Amount",text="Amount", color="Budget Type", barmode="group", title="Budget Comparison by Category")
     fig2.update_traces(textposition="outside")
@@ -134,5 +134,6 @@ dept_selected = st.selectbox(
 )
 df_filtered = df[df["department"] == dept_selected]
 st.dataframe(df_filtered[["project_name","contractor","status"]],use_container_width=True)
+
 
 
