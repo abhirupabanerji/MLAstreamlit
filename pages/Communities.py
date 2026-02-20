@@ -164,12 +164,12 @@ st.plotly_chart(fig3, use_container_width=True)
 #male count
 df_total = df_citizen.groupby("community_group", as_index=False)["male_count"].sum()
 fig=px.bar(df_total,x="community_group",y="male_count",color="community_group",text="male_count", labels={"x":"communitites","y":"male count"},title="Male count in various communitites")
-fig.update_traces(textposition="outside")
+fig.update_traces(texttemplate="%{y:,.0f}",textposition="outside")
 
 #female count
 df_ftotal = df_citizen.groupby("community_group", as_index=False)["female_count"].sum()
 fig2=px.bar(df_ftotal,x="community_group",y="female_count",text="female_count",color="community_group",labels={"x":"communitites","y":"male count"},title="Female count in various communitites")
-fig2.update_traces(textposition="outside")
+fig2.update_traces(texttemplate="%{y:,.0f}",textposition="outside")
 
 col1, col2 = st.columns(2)
 with col1:
@@ -182,5 +182,6 @@ with col2:
 df_religion_sum = (df_innerreligion.groupby("religion")["population_x"].sum().reset_index())
 
 fig3 = px.bar(df_religion_sum, x="religion", y="population_x", color="religion", title="Population by Religion", text="population_x")
-fig3.update_traces(textposition="outside")
+fig3.update_traces(texttemplate="%{y:,.0f}",textposition="outside")
 st.plotly_chart(fig3, use_container_width=True)
+
