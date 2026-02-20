@@ -1,6 +1,7 @@
 pandas
 plotly.express
-streamlit
+streamlit==1.47.0
+
 
 
 
