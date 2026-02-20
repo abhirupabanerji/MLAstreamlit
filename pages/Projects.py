@@ -113,7 +113,7 @@ with col1:
     df_project = df.groupby("category")[["budget_sanctioned", "budget_released", "budget_used"]].sum().reset_index()
     df_long = df_project.melt(id_vars="category", value_vars=["budget_sanctioned", "budget_released", "budget_used"], var_name="Budget Type", value_name="Amount")
     fig2 = px.bar(df_long, x="category", y="Amount",text="Amount", color="Budget Type", barmode="group", title="Budget Comparison by Category")
-    fig2.update_traces(textposition="outside")
+    fig2.update_traces(texttemplate="%{y:,.0f}",textposition="outside")
     st.plotly_chart(fig2, use_container_width=True)
 with col2:
     #average time taken for project completion
@@ -124,7 +124,7 @@ with col2:
     avg_time = (df_completed.groupby("category")["completion_days"].mean().reset_index())
 
     fig4 = px.bar(avg_time, x="category", y="completion_days",text="completion_days",color="category", title="Average Time Taken for Project Completion (Days)", labels={"completion_days": "Average Completion Time (Days)"})
-    fig4.update_traces(textposition="outside")
+    fig4.update_traces(texttemplate="%{y:,.0f}",textposition="outside")
     st.plotly_chart(fig4, use_container_width=True)
 
 #detailed table
@@ -134,8 +134,6 @@ dept_selected = st.selectbox(
 )
 df_filtered = df[df["department"] == dept_selected]
 st.dataframe(df_filtered[["project_name","contractor","status"]],use_container_width=True)
-
-
 
 
 
